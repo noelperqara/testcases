@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Perdata</name>
+   <tag></tag>
+   <elementGuidId>abc0c55d-5a7f-41db-b073-96c7abc94509</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>648f4dd0-51e0-4f96-9c16-b5e5c99fc3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between gap-2 items-center cursor-pointer hover:bg-lightgrey-2 border border-[#E7ECF0] rounded-xl px-3 py-2</value>
+      <webElementGuid>ecb87ca5-dca5-49ae-aa64-dd35c923594f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perdata</value>
+      <webElementGuid>88999f30-bf30-4c9e-b00e-7066abb71ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-[#F6F9FD]&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;flex justify-between gap-2 items-center cursor-pointer hover:bg-lightgrey-2 border border-[#E7ECF0] rounded-xl px-3 py-2&quot;]</value>
+      <webElementGuid>f8f40ecd-9b63-4662-a72e-13083164e9b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>deea6063-fb5f-4c82-9d29-4cd213049121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Kategori'])[1]/following::div[2]</value>
+      <webElementGuid>231d8f81-06a1-47d6-bd00-d7cbaac2be2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[2]/following::div[8]</value>
+      <webElementGuid>d8d95fbe-10f9-40ab-babc-64f049095a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketenagakerjaan'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7ef0375-4763-4e69-957e-8fa6ce08ee9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>f5124d9c-0b5a-40f4-ba4c-ef5e31c15259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Perdata' or . = 'Perdata')]</value>
+      <webElementGuid>334ead2d-2e43-460e-a193-19b1aa7b6fb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

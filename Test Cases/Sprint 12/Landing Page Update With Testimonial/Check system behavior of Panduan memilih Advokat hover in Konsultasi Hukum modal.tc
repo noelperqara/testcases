@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of Panduan memilih Advokat hover in Konsultasi Hukum modal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c83632d-2d15-4a23-ac3a-60ac8e7ea0ff</testCaseGuid>
+</TestCaseEntity>

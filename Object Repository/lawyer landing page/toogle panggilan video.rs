@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toogle panggilan video</name>
+   <tag></tag>
+   <elementGuidId>09d3a42a-b398-4c71-978c-db2c3460bbef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='toggle-online-offline']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e5b6c41-fff2-4657-918d-7945bcf4f59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-11 h-6 border border-gray-300 rounded-full peer-focus:ring-4 after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 after:transition-all bg-gray-400 peer-focus:ring-gray-300</value>
+      <webElementGuid>2a030f77-5f51-4679-81b2-8f3ead65b323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;online-status&quot;)/div[@id=&quot;voice-feature&quot;]/label[@id=&quot;toggle-online-offline&quot;]/div[@class=&quot;w-11 h-6 border border-gray-300 rounded-full peer-focus:ring-4 after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 after:transition-all bg-gray-400 peer-focus:ring-gray-300&quot;]</value>
+      <webElementGuid>d2269772-e849-4aa2-8306-2403e145bdb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='toggle-online-offline']/div</value>
+      <webElementGuid>c9514b52-a972-4a42-8309-e0dc9ca6a710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>7e9c5d3b-dc61-4a66-b820-b07341de128e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

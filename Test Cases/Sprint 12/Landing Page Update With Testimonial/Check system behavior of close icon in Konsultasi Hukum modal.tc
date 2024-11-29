@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of close icon in Konsultasi Hukum modal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>541b0501-7b2e-459f-90ff-cda74e614b2c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>popup data pendukung</name>
+   <tag></tag>
+   <elementGuidId>c8826921-5f55-46cd-a216-d5be8e829be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a541c3b5-0473-401e-a445-e2c92a7f87a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white shadow-lg absolute overflow-auto w-full md:w-[452px] max-h-[95%] scrollbar p-4 sm:p-5 md:p-7 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl</value>
+      <webElementGuid>028ff01d-0511-4c01-8039-d69928503cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Data Pendukung  Keamanan data Anda adalah prioritas utama kami, data ini akan digunakan secara eksklusif dalam layanan Perqara.  Data tersebut diperlukan dalam layanan konsultasi di Perqara. Membantu advokat di Perqara memberikan konsultasi yang tepat dan akurat.Memberikan solusi yang lebih tepat dan efektif bagi AndaMemberikan informasi dan komunikasi yang terkait dalam layanan</value>
+      <webElementGuid>a9bf62d3-fd33-4f78-b2f8-c09a5e5dcc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/div[@class=&quot;bg-[url('/image/register/banner-register.png')] bg-cover&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full md:w-[452px] max-h-[95%] scrollbar p-4 sm:p-5 md:p-7 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]</value>
+      <webElementGuid>b023f9ea-6155-4956-ae8d-aee3f1b016c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div/div</value>
+      <webElementGuid>9fb18cde-ff36-4312-9c30-40b0722791fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>831cab58-99c1-4a50-a5d4-98818f332279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Data Pendukung  Keamanan data Anda adalah prioritas utama kami, data ini akan digunakan secara eksklusif dalam layanan Perqara.  Data tersebut diperlukan dalam layanan konsultasi di Perqara. Membantu advokat di Perqara memberikan konsultasi yang tepat dan akurat.Memberikan solusi yang lebih tepat dan efektif bagi AndaMemberikan informasi dan komunikasi yang terkait dalam layanan' or . = ' Data Pendukung  Keamanan data Anda adalah prioritas utama kami, data ini akan digunakan secara eksklusif dalam layanan Perqara.  Data tersebut diperlukan dalam layanan konsultasi di Perqara. Membantu advokat di Perqara memberikan konsultasi yang tepat dan akurat.Memberikan solusi yang lebih tepat dan efektif bagi AndaMemberikan informasi dan komunikasi yang terkait dalam layanan')]</value>
+      <webElementGuid>52623c29-eb45-4626-bed0-367077192f86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nomor ponsel atau email advokat</name>
+   <tag></tag>
+   <elementGuidId>f65cd3fc-c3e2-4d6f-984e-ce164e6642ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div[2]/div[2]/div/div/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bb3dc04a-4c14-448b-acea-a496b0e7ec6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>de8c1b89-06e3-4820-a444-64d0cf9d9f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>email@email.com atau 0813302938***</value>
+      <webElementGuid>a4e52101-cb4c-491d-aa90-d47b7b467d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-none w-full flex-1 rounded-lg focus:ring-2</value>
+      <webElementGuid>bb999984-b8bd-4645-8d7e-456faadc3691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/div[@class=&quot;relative bg-[#10172A] min-h-screen&quot;]/div[@class=&quot;relative w-full md:w-[632px] mx-auto pt-[169px] md:pt-[241px] md:px-0 px-4&quot;]/div[@class=&quot;mt-8 sm:mx-[90px]&quot;]/div[@class=&quot;bg-white rounded-2xl sm:p-8 p-4 sm:h-[600px] h-[500px] overflow-hidden&quot;]/div[@class=&quot;flex flex-col justify-between h-full&quot;]/div[@class=&quot;flex flex-col sm:gap-6 gap-4 flex-1&quot;]/div[1]/div[@class=&quot;relative w-full border rounded-lg text-black border-gray-300&quot;]/input[@class=&quot;border-none w-full flex-1 rounded-lg focus:ring-2&quot;]</value>
+      <webElementGuid>73c5e5b6-0be6-4fe4-9d82-89e3ce6743ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>c87de924-0ec9-4298-8099-b4f94c986751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div[2]/div[2]/div/div/div/div/div/input</value>
+      <webElementGuid>d9240cbb-3018-48ab-a57f-83b61789c908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>6da4f7b7-2fb4-4327-a95b-0baf771b71d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'email@email.com atau 0813302938***']</value>
+      <webElementGuid>aa2e52f9-9a8e-477f-add3-f57a461e6cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

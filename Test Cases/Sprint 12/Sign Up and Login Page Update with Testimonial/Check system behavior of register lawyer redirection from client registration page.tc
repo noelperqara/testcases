@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of register lawyer redirection from client registration page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf56aeb4-a334-4cdd-b15d-ab7443401a07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of Pelajari link for pro bono services</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54d8d8ee-a36e-4a6c-8dc0-ec9183f6f188</testCaseGuid>
+</TestCaseEntity>

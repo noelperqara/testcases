@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tombol status</name>
+   <tag></tag>
+   <elementGuidId>b3c448ed-325f-470a-ad53-e7da379639cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div/div/div/div/div/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-neutral-600.text-xs.font-normal.leading-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c9e8ce1-ed1f-4140-8e31-e5380b6ffe77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutral-600 text-xs font-normal leading-normal</value>
+      <webElementGuid>f8ad9bf6-31f3-43ac-84d2-bf5b4dc9fdd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Offline</value>
+      <webElementGuid>4bcbaf6e-dab6-4834-8cb8-ac89bc9b94f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;w-full py-3.5 px-4 h-16 bg-white transition-all duration-300 ease-in-out sticky top-0 z-50 bg-transparent&quot;]/div[@class=&quot;max-w-[1280px] mx-auto xl:px-40&quot;]/div[@class=&quot;flex justify-between gap-2 items-center&quot;]/div[@class=&quot;flex items-center gap-3 cursor-pointer&quot;]/div[@class=&quot;px-2 py-1 rounded-full items-center gap-1 inline-flex bg-gray-200 border border-zinc-300&quot;]/label[@class=&quot;relative inline-flex items-center gap-2 cursor-pointer&quot;]/span[@class=&quot;text-neutral-600 text-xs font-normal leading-normal&quot;]</value>
+      <webElementGuid>59343d19-ab72-4c14-83a0-bb5a5e85aca4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div/div/div/div/div/label/span[2]</value>
+      <webElementGuid>5b9082c5-c3ee-4f67-84fc-c679c79a7338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noel, S.H'])[1]/preceding::span[1]</value>
+      <webElementGuid>63b5926c-338e-45ff-a988-51fa19b467a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Izinkan'])[1]/preceding::span[2]</value>
+      <webElementGuid>e75f9317-3926-4516-b925-344dfb8aa21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Offline']/parent::*</value>
+      <webElementGuid>e3142f46-8f5c-4e64-aa2f-dd2411a8eb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>d409cde8-2fa0-46a1-8e6f-31bf195a7133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Offline' or . = 'Offline')]</value>
+      <webElementGuid>5f19122a-5f49-4411-96cd-22e0eb16c9b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

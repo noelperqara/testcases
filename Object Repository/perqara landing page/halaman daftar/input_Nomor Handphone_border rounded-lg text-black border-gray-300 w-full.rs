@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nomor Handphone_border rounded-lg text-black border-gray-300 w-full</name>
+   <tag></tag>
+   <elementGuidId>28312876-ea0d-44da-a929-e765dfc7246d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>nomor handphone</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>66533cd7-d3d7-4e54-9eb0-45037a908237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>a207102a-5f51-43f8-85f7-e54011542b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border rounded-lg text-black border-gray-300 w-full</value>
+      <webElementGuid>cb16dbf6-5b73-41b5-b774-bcae11a34747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: 08123456789</value>
+      <webElementGuid>9f7141f5-1e55-4237-896c-de267cfa727d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-register&quot;)/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;space-y-2&quot;]/div[1]/input[@class=&quot;border rounded-lg text-black border-gray-300 w-full&quot;]</value>
+      <webElementGuid>ecee49fc-1b9e-4710-a748-1b09954dfd3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='tel']</value>
+      <webElementGuid>3315b7f7-63cd-47a0-af37-e469d90950f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-register']/div/div[2]/div/input</value>
+      <webElementGuid>780cce10-b70c-4da0-b8a2-8413ecccfbd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>44dfe779-87cd-42e3-b4d0-574e1595115e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel' and @placeholder = 'Contoh: 08123456789']</value>
+      <webElementGuid>962dd493-4f8b-4937-a625-d0a98f6f6055</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

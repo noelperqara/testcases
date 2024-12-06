@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>landing page-masuk</name>
+   <tag></tag>
+   <elementGuidId>a9e6d947-2a15-4e33-a35a-b17e078d5613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Masuk ' or . = ' Masuk ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>53178a50-4d0d-40d6-8439-885049871734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-2 border-blue-2 bg-blue-2 text-white py-1.5 px-3 rounded-lg leading-5</value>
+      <webElementGuid>a2012e43-cb93-43af-beb6-1e7f7adeb941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk </value>
+      <webElementGuid>e23a42a8-de5a-4b69-bf8d-4e2eec253d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;relative w-full py-2.5 px-4 h-16 transition-all duration-300 ease-in-out sticky top-0 z-50 bg-transparent top-16&quot;]/div[@class=&quot;max-w-[1280px] mx-auto xl:px-40&quot;]/div[@class=&quot;flex justify-between gap-2 items-center&quot;]/div[@class=&quot;flex items-center gap-3&quot;]/button[@class=&quot;border-2 border-blue-2 bg-blue-2 text-white py-1.5 px-3 rounded-lg leading-5&quot;]</value>
+      <webElementGuid>b34e8ef7-5b4e-4575-a5eb-c1b1a3dbdd31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div/div/div/div[2]/button</value>
+      <webElementGuid>120e998d-eccf-4a3f-a130-0ddb9fa7e2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::button[1]</value>
+      <webElementGuid>020ea197-2622-4067-9251-079c63f57426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::button[2]</value>
+      <webElementGuid>43b586a2-6dae-4e93-9dbc-a6e98a86a2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Hukum'])[2]/preceding::button[1]</value>
+      <webElementGuid>b6add4f5-2710-4a33-9e19-10a78c03f0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsultasi Hukum'])[1]/preceding::button[1]</value>
+      <webElementGuid>ea1b45f2-8777-4e6a-aa2e-e23296aa3641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>4feea64c-d601-4c04-b6b8-acee5094687f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>7923e1bb-f624-43c7-ac5e-abee4846cf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>212444f5-575b-453d-aba0-0f4b98bd03c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

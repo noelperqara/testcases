@@ -21,19 +21,19 @@ WebUI.openBrowser('https://staging.perqara.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/close banner'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-close banner'))
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/tombol daftar landing page'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-daftar'))
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/halaman daftar/tooltip data pendukung'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/popup data pendukung'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.takeElementScreenshot(findTestObject('Object Repository/perqara landing page/halaman daftar/popup data pendukung'))
+WebUI.takeElementScreenshot(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/halaman daftar/close popup data pendukung'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementNotVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/popup data pendukung'))
+WebUI.verifyElementNotVisible(findTestObject('null'))
 
 WebUI.takeScreenshot()
 

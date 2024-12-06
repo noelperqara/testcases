@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal konsultasi hukum</name>
+   <tag></tag>
+   <elementGuidId>8566b3fb-320e-4d17-a20b-769552e7af23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06452566-1d4c-4477-8efb-c9af543a35bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl</value>
+      <webElementGuid>7be325ed-f835-41b4-a566-68bf1175b248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Konsultasi Hukum  Disc. 60%  Lihat semua Advokat  Anda memiliki kebebasan untuk memilih Advokat yang telah terdaftar di platform Perqara.  Panduan memilih Advokat  Perqara akan menanyakan pertanyaan seputar kasus Anda dan memberikan rekomendasi Advokat. Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari</value>
+      <webElementGuid>86cde852-422f-43a3-bd5e-2014d979ba5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-white font-lexend -mt-16&quot;]/div[@class=&quot;w-full h-full relative&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]</value>
+      <webElementGuid>964a916b-e6d0-40aa-817e-8e04d99d61de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div</value>
+      <webElementGuid>6e652c2e-24ab-4160-9df6-e33c036b6524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan'])[1]/following::div[3]</value>
+      <webElementGuid>c4d42f84-c0a1-45ba-857f-1d5a9ad8e854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan 3x Konsultasi Gratis dengan Pro bono'])[1]/following::div[3]</value>
+      <webElementGuid>41e1df9b-f660-402b-bf1c-6baaa59d48c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>11628862-123f-4a00-8e2b-02ca0f788c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Konsultasi Hukum  Disc. 60%  Lihat semua Advokat  Anda memiliki kebebasan untuk memilih Advokat yang telah terdaftar di platform Perqara.  Panduan memilih Advokat  Perqara akan menanyakan pertanyaan seputar kasus Anda dan memberikan rekomendasi Advokat. Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari' or . = ' Konsultasi Hukum  Disc. 60%  Lihat semua Advokat  Anda memiliki kebebasan untuk memilih Advokat yang telah terdaftar di platform Perqara.  Panduan memilih Advokat  Perqara akan menanyakan pertanyaan seputar kasus Anda dan memberikan rekomendasi Advokat. Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari')]</value>
+      <webElementGuid>2ea89a33-06e1-4993-ad10-e019d7af7084</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

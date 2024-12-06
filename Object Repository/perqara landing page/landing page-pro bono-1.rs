@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>landing page-pro bono-1</name>
+   <tag></tag>
+   <elementGuidId>84a1043d-93c5-4f9d-a2a5-69760de6eb8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>686dbb03-733c-4b35-98f4-426bb373ac86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between gap-1 py-2 px-4 rounded-md items-center text-lexend text-[#181E23] border border-[#FFD7D9] font-semibold bg-[linear-gradient(86.05deg,#FF5B5E_-6.62%,#FFF1F1_14.97%)] text-xs</value>
+      <webElementGuid>0812f3b9-a6f3-4073-b76e-633679300ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari</value>
+      <webElementGuid>8d47532f-deb4-4960-89f6-6cd98621aec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-white font-lexend -mt-16&quot;]/div[@class=&quot;w-full h-full relative&quot;]/div[@class=&quot;max-w-[1280px] px-4 xl:px-40 mx-auto relative z-10&quot;]/div[@class=&quot;flex md:flex-row flex-col justify-between&quot;]/div[@class=&quot;mt-16&quot;]/div[@class=&quot;hidden md:flex items-center flex-col gap-3&quot;]/a[1]/div[@class=&quot;flex justify-between gap-1 py-2 px-4 rounded-md items-center text-lexend text-[#181E23] border border-[#FFD7D9] font-semibold bg-[linear-gradient(86.05deg,#FF5B5E_-6.62%,#FFF1F1_14.97%)] text-xs&quot;]</value>
+      <webElementGuid>acdfac94-50de-4a48-a589-3a41201f7201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div/div/a/div</value>
+      <webElementGuid>8ab515cc-b559-4583-9b1f-1072b998af2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsultasi Sekarang'])[1]/following::div[1]</value>
+      <webElementGuid>6cf1b48b-2a3d-40cc-ba14-2ad4e3f36ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disc. 60%'])[1]/following::div[1]</value>
+      <webElementGuid>be4b4a98-5a72-42bd-8524-2d57122e51c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/a/div</value>
+      <webElementGuid>6ec94e27-4d7c-4884-812f-3af8176597c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari' or . = 'Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari')]</value>
+      <webElementGuid>c774ac56-a675-4c39-814d-e1eee1ea43ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

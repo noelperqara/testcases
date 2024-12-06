@@ -21,7 +21,7 @@ import org.openqa.selenium.Keys as Keys
 //Advokat berada pada landing page advokat
 WebUI.openBrowser('https://staging.perqara.com/')
 WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/perqara landing page/close banner'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-close banner'))
 WebUI.click(findTestObject('Object Repository/lawyer landing page/tombol login advokat on footer'))
 WebUI.setText(findTestObject('Object Repository/lawyer landing page/nomor ponsel atau email advokat'), 'noel@perqara.com')
 WebUI.setText(findTestObject('Object Repository/lawyer landing page/kata sandi advokat'), '12345678')

@@ -21,11 +21,11 @@ WebUI.openBrowser('https://staging.perqara.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/close banner'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-close banner'))
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/tombol daftar landing page'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-daftar'))
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/halaman daftar/link syarat dan ketentuan'))
+WebUI.click(findTestObject('null'))
 
 String expectedurl = 'https://staging.perqara.com/syarat-ketentuan'
 

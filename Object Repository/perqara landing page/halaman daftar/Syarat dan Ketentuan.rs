@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Syarat dan Ketentuan</name>
+   <tag></tag>
+   <elementGuidId>5d1422a9-5607-4d99-8a64-f38f51b60e4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-register']/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-steelBlue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31b52bd3-b0ca-4495-b765-1cd7769a617b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/syarat-ketentuan</value>
+      <webElementGuid>5c8bec6c-d57c-46ea-a723-47aa4917f64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-steelBlue</value>
+      <webElementGuid>12001998-b873-4472-bb8e-f77df8f3184b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Syarat dan Ketentuan </value>
+      <webElementGuid>d0bbe8a5-5367-4dab-b7dc-6f6954df7af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-register&quot;)/div[@class=&quot;space-y-4&quot;]/p[@class=&quot;text-neutral-800 text-sm text-center&quot;]/a[@class=&quot;text-steelBlue&quot;]</value>
+      <webElementGuid>2b3cfb59-0da0-48a6-8ad2-eefe62ccce48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-register']/div/p/a</value>
+      <webElementGuid>c5223dbf-1d88-4814-9e1e-3378a1907c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Syarat dan Ketentuan')]</value>
+      <webElementGuid>a854bde8-3ced-43b2-860c-2ca3cec826dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kelamin'])[1]/following::a[1]</value>
+      <webElementGuid>53b02d01-8631-4d03-9760-6fad88277f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir'])[1]/following::a[1]</value>
+      <webElementGuid>6f82adfa-c2cb-4e2f-9600-e651b6766550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>2271a9b0-4c73-4d72-bada-f3850465d8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Syarat dan Ketentuan']/parent::*</value>
+      <webElementGuid>b4e02229-2531-45b5-9291-31c8e9a2ad3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/syarat-ketentuan')]</value>
+      <webElementGuid>c93d3a35-5bd4-482f-a7e9-45181e93514a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>8e95645a-560e-4c5a-a833-0105120ea826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/syarat-ketentuan' and (text() = ' Syarat dan Ketentuan ' or . = ' Syarat dan Ketentuan ')]</value>
+      <webElementGuid>e346008d-9c7a-421e-b625-4b647fa7a70f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

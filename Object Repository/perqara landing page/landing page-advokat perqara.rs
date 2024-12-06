@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>landing page-advokat perqara</name>
+   <tag></tag>
+   <elementGuidId>03a049a9-9a5a-4f55-a8cf-bc3c89373c78</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='features']/div/div</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19d5d5a0-cdc2-4d53-b615-2ad8c1484a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[1280px] px-4 xl:px-40 mx-auto space-y-8</value>
+      <webElementGuid>1fd0c7ac-eb29-4512-ba0d-e8031ddf79b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ADVOKAT PERQARA Alvin Alfiansyah S.H 5 Star Advocate Yakup Putra Hasibuan, S.H., LL.M 5 Star Advocate Desi Permatasari, S.H., M.H. 5 Star Advocate Ricky Rachmat Yuniardi, S.H., M.H., C.L.A. 5 Star Advocate Chairunnisa Ratu Salma, S.H. 5 Star Advocate ⭐ Lebih dari 500 Advokat bersedia untuk Konsultasi Hukum Online dengan Anda! ⭐ Lihat semua Advokat  27.000+  Konsultasi Selesai  500+  Advokat Terdaftar  130+  Kota Terjangkau 4,9/5 Kepuasan Klien  Kenapa Konsultasi Hukum di Perqara? Didukung dengan berbagai fitur yang memudahkan, ayo #BebasKonsultasi bersama Perqara sebagai langkah pertama bebas dari masalah hukum.Konsultasi InstanKonsultasi hukum online sekarang tanpa perlu buat janji temu.Advokat TerpercayaPercayakan masalah hukum Anda kepada Advokat profesional yang terbaik di bidangnyaSatu Harga untuk SemuaBebas konsultasi hukum via chat, voice call atau video call hanya dengan membayar satu hargaProses Aman &amp; TransparanLacak semua proses dan transaksi layanan hukum yang Anda pesan di Perqara. Disc. 60% Konsultasi SekarangDapatkan Kuota 3x Konsultasi Gratis dengan Pro Bono Selengkapnya </value>
+      <webElementGuid>797aac57-ce6e-4b56-aba6-b716c3040594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;features&quot;)/div[@class=&quot;relative bg-[linear-gradient(180deg,#2B72C6_0%,#FFFFFF_100%)] -mt-2&quot;]/div[@class=&quot;max-w-[1280px] px-4 xl:px-40 mx-auto space-y-8&quot;]</value>
+      <webElementGuid>29117361-e93c-4c98-88df-6425dc78b33f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='features']/div/div</value>
+      <webElementGuid>e87c08ea-ca41-4058-8ba6-8252fcf623ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan 3x Konsultasi Gratis dengan Pro bono'])[2]/following::div[6]</value>
+      <webElementGuid>7d7a6a33-0482-44b1-8f60-669c73cd5926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div</value>
+      <webElementGuid>b134f8e2-f4fa-4e29-9a35-26147201ae89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ADVOKAT PERQARA Alvin Alfiansyah S.H 5 Star Advocate Yakup Putra Hasibuan, S.H., LL.M 5 Star Advocate Desi Permatasari, S.H., M.H. 5 Star Advocate Ricky Rachmat Yuniardi, S.H., M.H., C.L.A. 5 Star Advocate Chairunnisa Ratu Salma, S.H. 5 Star Advocate ⭐ Lebih dari 500 Advokat bersedia untuk Konsultasi Hukum Online dengan Anda! ⭐ Lihat semua Advokat  27.000+  Konsultasi Selesai  500+  Advokat Terdaftar  130+  Kota Terjangkau 4,9/5 Kepuasan Klien  Kenapa Konsultasi Hukum di Perqara? Didukung dengan berbagai fitur yang memudahkan, ayo #BebasKonsultasi bersama Perqara sebagai langkah pertama bebas dari masalah hukum.Konsultasi InstanKonsultasi hukum online sekarang tanpa perlu buat janji temu.Advokat TerpercayaPercayakan masalah hukum Anda kepada Advokat profesional yang terbaik di bidangnyaSatu Harga untuk SemuaBebas konsultasi hukum via chat, voice call atau video call hanya dengan membayar satu hargaProses Aman &amp; TransparanLacak semua proses dan transaksi layanan hukum yang Anda pesan di Perqara. Disc. 60% Konsultasi SekarangDapatkan Kuota 3x Konsultasi Gratis dengan Pro Bono Selengkapnya ' or . = ' ADVOKAT PERQARA Alvin Alfiansyah S.H 5 Star Advocate Yakup Putra Hasibuan, S.H., LL.M 5 Star Advocate Desi Permatasari, S.H., M.H. 5 Star Advocate Ricky Rachmat Yuniardi, S.H., M.H., C.L.A. 5 Star Advocate Chairunnisa Ratu Salma, S.H. 5 Star Advocate ⭐ Lebih dari 500 Advokat bersedia untuk Konsultasi Hukum Online dengan Anda! ⭐ Lihat semua Advokat  27.000+  Konsultasi Selesai  500+  Advokat Terdaftar  130+  Kota Terjangkau 4,9/5 Kepuasan Klien  Kenapa Konsultasi Hukum di Perqara? Didukung dengan berbagai fitur yang memudahkan, ayo #BebasKonsultasi bersama Perqara sebagai langkah pertama bebas dari masalah hukum.Konsultasi InstanKonsultasi hukum online sekarang tanpa perlu buat janji temu.Advokat TerpercayaPercayakan masalah hukum Anda kepada Advokat profesional yang terbaik di bidangnyaSatu Harga untuk SemuaBebas konsultasi hukum via chat, voice call atau video call hanya dengan membayar satu hargaProses Aman &amp; TransparanLacak semua proses dan transaksi layanan hukum yang Anda pesan di Perqara. Disc. 60% Konsultasi SekarangDapatkan Kuota 3x Konsultasi Gratis dengan Pro Bono Selengkapnya ')]</value>
+      <webElementGuid>f5459b43-add9-4094-bd1e-9d9488bad090</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

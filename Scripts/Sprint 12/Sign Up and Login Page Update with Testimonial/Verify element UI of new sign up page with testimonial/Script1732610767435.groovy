@@ -21,25 +21,25 @@ WebUI.openBrowser('https://staging.perqara.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/close banner'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-close banner'))
 
-WebUI.click(findTestObject('Object Repository/perqara landing page/tombol daftar landing page'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-daftar'))
 
 String expectedurl = 'https://staging.perqara.com/register'
 
 String actualurl = WebUI.getUrl()
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/form pendaftaran'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/tooltip data pendukung'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/link syarat dan ketentuan'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/link kebijakan privasi'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/halaman daftar/link masuk di sini'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('perqara landing page/halaman daftar/tombol advokat perqara register'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
 WebUI.takeScreenshot()
 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal konsultasi hukum-lihat semua advokat</name>
+   <tag></tag>
+   <elementGuidId>9487abcf-80cc-420d-9b0d-34382cad62f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2a1a27e-acb6-4c32-ae5d-ca6b096afe35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center gap-2 mt-4 bg-[#F3FBFF] border border-[#EAEFF5] rounded-lg p-3 cursor-pointer</value>
+      <webElementGuid>e495ae1f-eeca-4f76-b243-6c9aef374bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lihat semua Advokat  Anda memiliki kebebasan untuk memilih Advokat yang telah terdaftar di platform Perqara. </value>
+      <webElementGuid>b4dabfa4-b35f-423b-8d02-85404deb1b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-white font-lexend -mt-16&quot;]/div[@class=&quot;w-full h-full relative&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex justify-between items-center gap-2 mt-4 bg-[#F3FBFF] border border-[#EAEFF5] rounded-lg p-3 cursor-pointer&quot;]</value>
+      <webElementGuid>56ed0220-54f9-4ab9-890c-eec262c876c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>218beefb-b64b-4fb0-b0d6-fbb749c520dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disc. 60%'])[1]/following::div[1]</value>
+      <webElementGuid>3b48d5b3-9229-4425-b7de-7d06c5844237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsultasi Hukum'])[2]/following::div[2]</value>
+      <webElementGuid>4c9edf79-0a6b-411e-ad82-4c02ee8eb524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panduan memilih Advokat'])[1]/preceding::div[2]</value>
+      <webElementGuid>a88bc43b-17bf-4a5a-8ecc-59fe954f1852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>55a17372-d079-40f3-b768-7181e0cd6c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Lihat semua Advokat  Anda memiliki kebebasan untuk memilih Advokat yang telah terdaftar di platform Perqara. ' or . = ' Lihat semua Advokat  Anda memiliki kebebasan untuk memilih Advokat yang telah terdaftar di platform Perqara. ')]</value>
+      <webElementGuid>73a08cbe-be1c-4bd6-bb32-6a9f8e5f0edf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

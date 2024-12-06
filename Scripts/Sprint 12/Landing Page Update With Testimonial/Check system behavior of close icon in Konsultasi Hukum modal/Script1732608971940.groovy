@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://staging.perqara.com/')
 WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/perqara landing page/close banner'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-close banner'))
 
 WebUI.click('tombol Konsultasi Sekarang (60%)')
 

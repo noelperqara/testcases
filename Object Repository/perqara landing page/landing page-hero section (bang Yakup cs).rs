@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>landing page-hero section (bang Yakup cs)</name>
+   <tag></tag>
+   <elementGuidId>a9c17c25-fb06-4b2b-bd60-e72a104dc9ed</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>403644c3-7dfe-425f-a8ee-a4d34e5136b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_ipx/w_1050&amp;f_webp/image/landing-page/hero-picture-video-call.png</value>
+      <webElementGuid>3ed7942a-50e3-4a7c-b9ab-3bc16383d73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 640px) 248px, 525px</value>
+      <webElementGuid>35f7f67e-7690-465a-81e2-aea812f2b739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/_ipx/w_248&amp;f_webp/image/landing-page/hero-picture-video-call.png 248w, /_ipx/w_496&amp;f_webp/image/landing-page/hero-picture-video-call.png 496w, /_ipx/w_525&amp;f_webp/image/landing-page/hero-picture-video-call.png 525w, /_ipx/w_1050&amp;f_webp/image/landing-page/hero-picture-video-call.png 1050w</value>
+      <webElementGuid>1f7565cd-3ae9-4411-b77c-46ea92174433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-white font-lexend -mt-16&quot;]/div[@class=&quot;w-full h-full relative&quot;]/div[@class=&quot;max-w-[1280px] px-4 xl:px-40 mx-auto relative z-10&quot;]/div[@class=&quot;flex md:flex-row flex-col justify-between&quot;]/div[@class=&quot;md:mx-0 mx-auto md:mt-16 mt-6&quot;]/img[1]</value>
+      <webElementGuid>86c275cf-e397-426a-80e4-93b44bb3caf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div[2]/img</value>
+      <webElementGuid>5da3b6d8-94b4-4664-bca3-1d15a55e4f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/img</value>
+      <webElementGuid>2ad79e80-9338-4eca-a446-2633273a1c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_ipx/w_1050&amp;f_webp/image/landing-page/hero-picture-video-call.png']</value>
+      <webElementGuid>026ce869-98ca-4ab7-ad9b-a1632ece9657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

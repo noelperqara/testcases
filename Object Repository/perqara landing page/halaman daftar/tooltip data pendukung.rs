@@ -3,18 +3,18 @@
    <description></description>
    <name>tooltip data pendukung</name>
    <tag></tag>
-   <elementGuidId>b3e8392a-19ec-4f59-b189-9481d04f913a</elementGuidId>
+   <elementGuidId>2584b30d-f1d7-4d42-a9ef-5101fe098aa1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bersama Mencari Keadilan'])[1]/following::*[name()='svg'][1]</value>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>svg.w-4.h-4</value>
+         <value>div.flex.gap-2.items-center > button > svg > path</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -22,87 +22,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>svg</value>
-      <webElementGuid>7e65d7a1-4d41-43b6-9a0b-08676355218f</webElementGuid>
+      <value>path</value>
+      <webElementGuid>8e278933-4546-4ced-ae6d-3dc89065d589</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xmlns</name>
+      <name>d</name>
       <type>Main</type>
-      <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>eeb31724-9148-4db2-893e-269ea68bdfbf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>fill</name>
-      <type>Main</type>
-      <value>none</value>
-      <webElementGuid>c815e3b8-75d0-4554-b1af-0d98b6c0b589</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>viewBox</name>
-      <type>Main</type>
-      <value>0 0 24 24</value>
-      <webElementGuid>74660706-985d-4cf4-89cf-3c5493277a0f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>strokeWidth</name>
-      <type>Main</type>
-      <value>{1.5}</value>
-      <webElementGuid>ff9d3ff2-459d-4726-b7bc-95ec3d350497</webElementGuid>
+      <value>M6.58594 5.5299C7.36699 4.84648 8.63332 4.84648 9.41436 5.5299C10.1954 6.21331 10.1954 7.32135 9.41436 8.00477C9.27842 8.12372 9.12778 8.22197 8.96755 8.29951C8.47043 8.5401 8.00015 8.96505 8.00015 9.51733V10.0173M14 8.51733C14 11.831 11.3137 14.5173 8 14.5173C4.68629 14.5173 2 11.831 2 8.51733C2 5.20363 4.68629 2.51733 8 2.51733C11.3137 2.51733 14 5.20363 14 8.51733ZM8 12.0173H8.005V12.0223H8V12.0173Z</value>
+      <webElementGuid>a247cc7b-db5e-46fc-8a8f-8c856af146f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>stroke</name>
       <type>Main</type>
-      <value>currentColor</value>
-      <webElementGuid>c4450c7b-6109-4a5c-9387-bbf8068d39aa</webElementGuid>
+      <value>#3A475B</value>
+      <webElementGuid>5e25b26b-53df-417a-b415-ae2023c593f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>stroke-width</name>
       <type>Main</type>
-      <value>w-4 h-4</value>
-      <webElementGuid>de8dab66-9d39-4bce-b525-23b0d652c8fd</webElementGuid>
+      <value>1.5</value>
+      <webElementGuid>fcbb63da-5859-4319-851c-38e13967c4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>218c00a6-e296-4df5-ba11-1696bea21cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>56568086-e712-4f5f-895b-05f9b4308cba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form-register&quot;)/div[1]/div[@class=&quot;flex gap-2 items-center&quot;]/button[@class=&quot;cursor-pointer mt-1&quot;]/svg[@class=&quot;w-4 h-4&quot;]</value>
-      <webElementGuid>0bfe78b8-815d-495c-b7c2-a7c7bcbd3897</webElementGuid>
+      <value>id(&quot;form-register&quot;)/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;flex gap-2 items-center&quot;]/button[1]/svg[1]/path[1]</value>
+      <webElementGuid>520daa00-26a3-4123-9722-8d8aaf065a32</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bersama Mencari Keadilan'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>9b0064bd-6319-468b-bfac-c42c380458cf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kelamin'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>bbba74fe-bb42-4c7f-918c-4b3403be3921</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>b1fa368b-8032-4359-b890-064f13b5cb90</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>

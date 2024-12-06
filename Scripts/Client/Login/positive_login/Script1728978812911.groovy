@@ -25,33 +25,33 @@ import org.openqa.selenium.Keys as Keys
 //Pengguna berada pada landing page perqara
 WebUI.openBrowser('https://staging.perqara.com')
 WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/perqara landing page/close banner'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-close banner'))
 
 //Test step
 //1. Klien klik tombol 'Masuk' pada landing page
-WebUI.click(findTestObject('Object Repository/perqara landing page/tombol masuk landing page'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/landing page-masuk'))
 
 //2. Klien memasukkan nomor ponsel atau email pada modal login
-WebUI.setText(findTestObject('Object Repository/perqara landing page/nomor ponsel atau email'), 'noelchristoper@gmail.com')
-WebUI.setText(findTestObject('Object Repository/perqara landing page/kata sandi'), '121298Noel@')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal login-nomor ponsel atau email'), 'noelchristoper@gmail.com')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal login-kata sandi'), '121298Noel@')
 
 //3. Klien klik tombol 'Masuk' pada modal login
-WebUI.click(findTestObject('Object Repository/perqara landing page/tombol masuk modal'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/modal login-masuk'))
 WebUI.waitForPageLoad(2)
 
 //4. Klien memasukkan kode OTP valid
-WebUI.setText(findTestObject('Object Repository/perqara landing page/otp 1'), '1')
-WebUI.setText(findTestObject('Object Repository/perqara landing page/otp 2'), '1')
-WebUI.setText(findTestObject('Object Repository/perqara landing page/otp 3'), '1')
-WebUI.setText(findTestObject('Object Repository/perqara landing page/otp 4'), '1')
-WebUI.setText(findTestObject('Object Repository/perqara landing page/otp 5'), '1')
-WebUI.setText(findTestObject('Object Repository/perqara landing page/otp 6'), '1')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal otp-otp 1'), '1')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal otp-otp 2'), '1')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal otp-otp 3'), '1')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal otp-otp 4'), '1')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal otp-otp 5'), '1')
+WebUI.setText(findTestObject('Object Repository/perqara landing page/modal otp-otp 6'), '1')
 
 //5. Klien klik tombol 'Masuk' pada modal OTP
-WebUI.click(findTestObject('Object Repository/perqara landing page/tombol masuk otp'))
+WebUI.click(findTestObject('Object Repository/perqara landing page/modal otp-konfirmasi'))
 
 //Expected result
-WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/dropdown akun'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/perqara landing page/landing page-login-dropdown akun'))
 
 //Actual result
 WebUI.takeFullPageScreenshot()

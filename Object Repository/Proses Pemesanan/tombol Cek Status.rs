@@ -3,15 +3,15 @@
    <description></description>
    <name>tombol Cek Status</name>
    <tag></tag>
-   <elementGuidId>b543cb01-268e-4214-9909-cc84f8711d30</elementGuidId>
+   <elementGuidId>2739af5b-dfc2-472e-be44-7c2ad4e3e5b9</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='finish-payment']/button</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d573fbab-7ae7-4f2f-b79c-6cf84374815b</webElementGuid>
+      <webElementGuid>f4b9f2aa-6a00-41a9-9318-84b3697e12d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2c14de54-db23-4579-be2f-7422733c3ccb</webElementGuid>
+      <webElementGuid>5eabadde-9002-4125-b177-5e2534b95581</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-2.5 py-1.5 text-sm ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg</value>
-      <webElementGuid>b0c3d1e2-3166-47c1-9df1-d419f21f8072</webElementGuid>
+      <webElementGuid>6f754c1b-32d3-4286-b7ef-0cb947302d92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Cek Status </value>
-      <webElementGuid>0e84e6d0-589c-4676-be4e-e150e35e62f6</webElementGuid>
+      <webElementGuid>24719a2e-3808-4a9e-83f4-21ddb47f6c25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;finish-payment&quot;)/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-2.5 py-1.5 text-sm ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg&quot;]</value>
-      <webElementGuid>ce812279-a976-4a95-beb0-93508ed74982</webElementGuid>
+      <webElementGuid>5bc0c6f5-5230-48b9-beaa-d7f3d0cc6a0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>7bac4ab6-20aa-4779-b477-8f542d5cdea4</webElementGuid>
+      <webElementGuid>db77796d-ea42-4432-a947-c3cf46c7b109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='finish-payment']/button</value>
-      <webElementGuid>72ee464d-c67d-40e1-86ac-60ca0f991dad</webElementGuid>
+      <webElementGuid>a4b4545b-fc04-45a7-965b-fa930a013579</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='pembayaran Konsultasi Instan'])[1]/following::button[1]</value>
-      <webElementGuid>02ad1f0a-b7f1-4920-b0ec-91646b1e6fe0</webElementGuid>
+      <webElementGuid>94c713af-9547-4a48-8d7a-505071c4e3f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesaikan Pembayaran'])[1]/following::button[1]</value>
-      <webElementGuid>a6b91299-4bb1-45d7-bc53-b8686bbcc5a0</webElementGuid>
+      <webElementGuid>589dbcf9-2c97-4247-832f-b6881691fb13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/button</value>
-      <webElementGuid>29c90bf4-5861-49a2-aff0-66dbc9021073</webElementGuid>
+      <webElementGuid>031d8531-b09f-4d58-8cda-a6052f41ac57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Cek Status ' or . = ' Cek Status ')]</value>
-      <webElementGuid>e3c00f47-58cb-4249-948a-ca18bde2cf63</webElementGuid>
+      <webElementGuid>8626cfec-4cdb-4156-aab5-256371abe634</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

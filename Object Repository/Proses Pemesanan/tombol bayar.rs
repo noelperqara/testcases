@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>tombol Cek Status</name>
+   <name>tombol bayar</name>
    <tag></tag>
-   <elementGuidId>2739af5b-dfc2-472e-be44-7c2ad4e3e5b9</elementGuidId>
+   <elementGuidId>0ee3f1bb-0c5f-44d5-a614-b7b33683db7a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='finish-payment']/button</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = ' Bayar ' or . = ' Bayar ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f4b9f2aa-6a00-41a9-9318-84b3697e12d1</webElementGuid>
+      <webElementGuid>69ff0faa-a4ee-4d63-a94c-804eae42cf9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5eabadde-9002-4125-b177-5e2534b95581</webElementGuid>
+      <webElementGuid>fda50567-042d-4e32-be95-4058517116d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-2.5 py-1.5 text-sm ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg</value>
-      <webElementGuid>6f754c1b-32d3-4286-b7ef-0cb947302d92</webElementGuid>
+      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4.5 py-2.5 md:text-lg bg-blue-2 text-white hover:bg-blue-9 rounded-lg w-[160px]</value>
+      <webElementGuid>c03c956f-8380-4121-b316-d0a9674f10e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Cek Status </value>
-      <webElementGuid>24719a2e-3808-4a9e-83f4-21ddb47f6c25</webElementGuid>
+      <value> Bayar </value>
+      <webElementGuid>ffa3e750-7f54-4cab-9b2e-cf8682c74e46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;finish-payment&quot;)/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-2.5 py-1.5 text-sm ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg&quot;]</value>
-      <webElementGuid>5bc0c6f5-5230-48b9-beaa-d7f3d0cc6a0a</webElementGuid>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-[#F6F9FD] min-h-[calc(100vh-64px)] font-lexend&quot;]/div[@class=&quot;fixed bottom-0 w-full shadow-sm&quot;]/div[@class=&quot;bg-white py-3&quot;]/div[@class=&quot;max-w-[550px] mx-auto px-4 flex items-center justify-between&quot;]/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4.5 py-2.5 md:text-lg bg-blue-2 text-white hover:bg-blue-9 rounded-lg w-[160px]&quot;]</value>
+      <webElementGuid>001223ff-5b3f-4263-8341-1b9013afcf48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,46 +63,46 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>db77796d-ea42-4432-a947-c3cf46c7b109</webElementGuid>
+      <webElementGuid>57fb6a50-91ae-4d5f-9472-adb31a6fee48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='finish-payment']/button</value>
-      <webElementGuid>a4b4545b-fc04-45a7-965b-fa930a013579</webElementGuid>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div[2]/button</value>
+      <webElementGuid>8746f7ce-15ef-4ad7-9257-685de26d6eef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='pembayaran Konsultasi Instan'])[1]/following::button[1]</value>
-      <webElementGuid>94c713af-9547-4a48-8d7a-505071c4e3f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp65.000'])[2]/following::button[1]</value>
+      <webElementGuid>0bf896b6-c3b2-4754-b5d3-815ac5b3f208</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesaikan Pembayaran'])[1]/following::button[1]</value>
-      <webElementGuid>589dbcf9-2c97-4247-832f-b6881691fb13</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Pembayaran'])[2]/following::button[1]</value>
+      <webElementGuid>8f4909fb-23f6-4719-8404-b52f53b7c8e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div[2]/button</value>
-      <webElementGuid>031d8531-b09f-4d58-8cda-a6052f41ac57</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>a8713698-defe-4320-8315-0d2162178095</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Cek Status ' or . = ' Cek Status ')]</value>
-      <webElementGuid>8626cfec-4cdb-4156-aab5-256371abe634</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' Bayar ' or . = ' Bayar ')]</value>
+      <webElementGuid>a2778b38-83a0-426e-8e0c-2deb62e6060b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

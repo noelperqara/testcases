@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='radix-:rg:']</value>
+         <value>//button[@type = 'button' and @id = 'radix-:rg:' and (text() = 'E-Wallet' or . = 'E-Wallet')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>97003c41-8c02-4846-a01e-514a0cebdfbd</webElementGuid>
+      <webElementGuid>77d9595d-4148-4372-8626-759759000a49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4d44b149-5866-44da-9ec1-9374f0567b2c</webElementGuid>
+      <webElementGuid>2699ecf2-b27a-47e6-a897-d6c03bad268e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-:rh:</value>
-      <webElementGuid>3dbaf5b7-98db-441f-a6a0-6b5c910518ae</webElementGuid>
+      <webElementGuid>3e59461c-c46b-4410-9f75-cf25aa5ed389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9b8461da-348e-4a5c-9167-9107ee1b8b35</webElementGuid>
+      <webElementGuid>125b3fdb-a7d6-4002-82e7-f00a657c42fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>open</value>
-      <webElementGuid>72d02ea1-89fb-47f3-bba2-720a0c85ab05</webElementGuid>
+      <webElementGuid>bc363ddd-e6b0-48eb-b6a8-2513d6b8374f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>data-orientation</name>
       <type>Main</type>
       <value>vertical</value>
-      <webElementGuid>e9b728de-f352-4de5-963e-391dc804f4c2</webElementGuid>
+      <webElementGuid>afad0e6f-3be8-4012-9fde-f3e7a755b44a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radix-:rg:</value>
-      <webElementGuid>2cdf72c2-c7c8-4e4b-b10a-a92131d568e4</webElementGuid>
+      <webElementGuid>85828be5-816d-480f-bf1e-baa85c7abf19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-4 flex flex-1 items-center justify-between [&amp;[data-state=open]>span>svg>path]:first:stroke-primary [&amp;[data-state=open]>span>svg>rect]:first:stroke-primary transition-all [&amp;[data-state=open]>svg]:rotate-180 [&amp;[data-state=open]>span>[data-role=preview]]:hidden</value>
-      <webElementGuid>5e48fad1-6f34-4738-b683-7d4536c589b2</webElementGuid>
+      <webElementGuid>73431c43-fe6a-4366-9561-9039af1d932b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>payment-channel-list-ewallet</value>
-      <webElementGuid>f05b3945-7b1f-470a-85b4-1bf8136c5549</webElementGuid>
+      <webElementGuid>058a35a0-fc7b-4ad4-a1d8-77b220c79110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +94,7 @@
       <name>text</name>
       <type>Main</type>
       <value>E-Wallet</value>
-      <webElementGuid>24002298-dc53-4dad-84e2-9106294d9032</webElementGuid>
+      <webElementGuid>c6568cff-6be6-4e75-8167-a4909714474b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:rg:&quot;)</value>
-      <webElementGuid>1a253052-2916-45bd-905f-8313b0fc6f21</webElementGuid>
+      <webElementGuid>204b07c3-3370-44df-8b34-d5520261fc45</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='radix-:rg:']</value>
-      <webElementGuid>594d3310-51c5-48cc-a75b-e1a43506d5d8</webElementGuid>
+      <webElementGuid>745234d4-a580-42c4-8746-2922ba05ec87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div/section[2]/div/div/div/h3/button</value>
-      <webElementGuid>f3410257-56a3-4c49-8217-98af95e28ea5</webElementGuid>
+      <webElementGuid>237fcc44-66ab-4b68-8a0e-a45f2c81ed77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/following::button[1]</value>
-      <webElementGuid>d4fdc31a-d2cc-4c38-ad8d-a57a43105aef</webElementGuid>
+      <webElementGuid>a2187e7e-b751-407d-b215-bd0e0c198956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Summary'])[2]/following::button[1]</value>
-      <webElementGuid>5347d3b3-12b5-4655-9d74-0345a81a8777</webElementGuid>
+      <webElementGuid>7aca4914-4584-4469-8c52-37248f97c6c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ShopeePay / SPayLater'])[1]/preceding::button[1]</value>
-      <webElementGuid>c3ddd0ec-c18c-401d-92ce-f46744d145ce</webElementGuid>
+      <webElementGuid>bc8ade90-3aec-4275-afc6-89b87944055e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h3/button</value>
-      <webElementGuid>1f8930f0-658e-4c3d-b9ac-9983d8b9ae1f</webElementGuid>
+      <webElementGuid>dade3208-a347-43c7-9f19-65f942ab1349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'radix-:rg:' and (text() = 'E-Wallet' or . = 'E-Wallet')]</value>
-      <webElementGuid>8e57600b-27d3-4539-8a78-8e335498e7c2</webElementGuid>
+      <webElementGuid>8b8dc173-4ed7-4605-bb7c-15395c123777</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

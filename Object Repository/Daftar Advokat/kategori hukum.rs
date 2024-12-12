@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kategori hukum</name>
+   <tag></tag>
+   <elementGuidId>5d6f4bf8-0b2d-431d-9f9c-af6dc37b76bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6623201-ff2e-4cb3-af52-098a711ab1c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-[#E7ECF0] rounded-xl cursor-pointer hover:border-blue-2</value>
+      <webElementGuid>88273d97-947f-4bb4-8718-d91aca74d359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kategori Hukum PerdataKetenagakerjaanPerkawinan &amp; PerceraianRp60.000Rp150.000%</value>
+      <webElementGuid>ae31a3bf-8f85-4aee-ab4b-3aecf792ad40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-[#F6F9FD]&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;border border-[#E7ECF0] rounded-xl cursor-pointer hover:border-blue-2&quot;]</value>
+      <webElementGuid>b0d01687-3805-4619-9996-154ea91eecb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>f1e297f2-a9ab-4ed7-881f-ea24fea8da73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noel, S.H'])[1]/following::div[2]</value>
+      <webElementGuid>8c4510ef-cf22-49ba-b471-bda46066dc38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pro bono'])[1]/following::div[3]</value>
+      <webElementGuid>d4ad205f-cda5-4c6a-a9f2-716c5456eda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>6b2db3ea-aaf6-460c-99f9-214db6414e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Kategori Hukum PerdataKetenagakerjaanPerkawinan &amp; PerceraianRp60.000Rp150.000%' or . = ' Kategori Hukum PerdataKetenagakerjaanPerkawinan &amp; PerceraianRp60.000Rp150.000%')]</value>
+      <webElementGuid>af3c21f6-f848-40d6-8fb1-c0f816f9dc59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

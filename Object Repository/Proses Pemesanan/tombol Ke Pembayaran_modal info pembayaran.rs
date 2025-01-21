@@ -3,15 +3,15 @@
    <description></description>
    <name>tombol Ke Pembayaran_modal info pembayaran</name>
    <tag></tag>
-   <elementGuidId>0f46fd28-0c2a-482f-8ee3-80bfa9db8c94</elementGuidId>
+   <elementGuidId>f099b5b5-0936-49c7-9973-fa78221fd8d9</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[4]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8a3222e1-756d-44f4-bfed-6b99dab08f08</webElementGuid>
+      <webElementGuid>2740f46c-ded2-4e28-81d6-52cdcf06c278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>103d2894-5f94-4589-b847-9e7b8582631a</webElementGuid>
+      <webElementGuid>514e56b3-d6e0-48f4-888b-31f5344db6f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4 py-2 bg-blue-2 text-white hover:bg-blue-9 rounded-lg w-auto md:w-[178px]</value>
-      <webElementGuid>09a3238b-8eca-4fee-88a7-61b09e845e4b</webElementGuid>
+      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4 py-2 bg-blue-2 text-white hover:bg-blue-9 rounded-lg w-auto</value>
+      <webElementGuid>f701e970-64ed-44a0-bc9d-7d7dd4b0e118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Proses Pembayaran</value>
-      <webElementGuid>18f51580-eb1b-41c8-8b0d-efa33f8dbfa1</webElementGuid>
+      <value>Ke Pembayaran</value>
+      <webElementGuid>31f80008-5c65-4485-9888-d19348f55b37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[2]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[480px] overflow-y-auto max-h-[95%] scrollbar p-0 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex flex-col gap-4.5 bg-white rounded-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4.5&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4 py-2 bg-blue-2 text-white hover:bg-blue-9 rounded-lg w-auto md:w-[178px]&quot;]</value>
-      <webElementGuid>993ae2c3-2e4a-4772-841e-d537d874dd2f</webElementGuid>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-[#F6F9FD] min-h-[calc(100vh-64px)] font-lexend&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[480px] overflow-y-auto max-h-[95%] scrollbar p-0 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex flex-col gap-6 bg-white rounded-lg p-4&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4 py-2 bg-blue-2 text-white hover:bg-blue-9 rounded-lg w-auto&quot;]</value>
+      <webElementGuid>45ad870b-5e85-4bc8-9eff-f320590d7493</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>0dbe3a76-5bdc-414e-bcd4-b8e2d5bef52d</webElementGuid>
+      <webElementGuid>10f0d358-a8d2-4691-87dc-cbff9349fc6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__nuxt']/div/main/div[2]/div[4]/div/div/div/div[4]/button</value>
-      <webElementGuid>f6b3037e-934b-4495-a815-295f90e2a9f5</webElementGuid>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[4]/div/div/div[3]/button</value>
+      <webElementGuid>5630ee93-809b-4e3b-8053-4e3d6275f222</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,30 +79,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp60.000'])[3]/following::button[1]</value>
-      <webElementGuid>e134467f-c49c-43c9-96d0-3d994b6b6896</webElementGuid>
+      <webElementGuid>dc90a8d6-d9be-47aa-a4e2-afbdb6e909fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya'])[1]/following::button[1]</value>
-      <webElementGuid>f59dd2af-81db-4bff-8263-76db9ff19a57</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya'])[2]/following::button[1]</value>
+      <webElementGuid>7e4b1e82-f8e9-4df4-b0e9-7218e2adf946</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>c143ebd4-8890-4a89-9438-e6e3e4143e35</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>1bb2e5c0-f436-4e48-895c-2e4b3ee935c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Proses Pembayaran' or . = 'Proses Pembayaran')]</value>
-      <webElementGuid>d3c0eae0-15ec-411d-b446-b6bfce914ce8</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Ke Pembayaran' or . = 'Ke Pembayaran')]</value>
+      <webElementGuid>1d0fed5b-666b-4238-bca9-cef367caef5c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

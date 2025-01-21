@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section waiting room</name>
+   <tag></tag>
+   <elementGuidId>a8783603-fe2c-47e6-8f68-6fa02fce68ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-white.rounded-xl.px-20.py-8.flex.flex-col.gap-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5723570-47fe-4fc7-bb73-0c9e8571b481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white rounded-xl px-20 py-8 flex flex-col gap-6</value>
+      <webElementGuid>1394ebaa-6576-475c-9bea-742743f03d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01:47Noel, S.HAdvokat akan menjawab sebentar lagi</value>
+      <webElementGuid>356b7966-02bd-476a-8d4d-ddf6e26d6e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;max-w-[550px] mx-auto pt-10 md:px-0 px-4&quot;]/div[2]/div[@class=&quot;bg-white rounded-xl px-20 py-8 flex flex-col gap-6&quot;]</value>
+      <webElementGuid>950a5933-c4a4-46d5-b4e1-a0e993dec2ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div</value>
+      <webElementGuid>2bb7f69f-716e-4cc6-88c5-54cde6448843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Konfirmasi'])[1]/following::div[2]</value>
+      <webElementGuid>acd59e4b-a6c5-4b43-b6d1-a0fe784fe9b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[2]/following::div[6]</value>
+      <webElementGuid>cd9dc495-61c9-4b56-bb30-1a9acdeb5323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>6cc66597-89f1-4c98-877a-a2c64e319273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '01:47Noel, S.HAdvokat akan menjawab sebentar lagi' or . = '01:47Noel, S.HAdvokat akan menjawab sebentar lagi')]</value>
+      <webElementGuid>346adf34-7cc8-4322-beba-7187dfd49c98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

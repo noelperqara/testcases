@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field deskripsi masalah</name>
+   <tag></tag>
+   <elementGuidId>d031c5a0-9b39-45d0-aa0b-ef43225517c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='problem-description']/div/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>23d79475-ddf4-44d5-aa73-8f9215225c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full flex text-sm border border-lightgrey-5 rounded-lg py-2 px-3 focus:outline-none focus:ring-transparent resize-none bg-[#F6F9FD]</value>
+      <webElementGuid>3c1cc624-afcd-416b-862e-2fe672218495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>12773e39-d25a-4167-af1c-1cfc67204a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Saya memiliki permasalahan hutang, tapi saya tidak tahu harus bagaimana.</value>
+      <webElementGuid>51a0595a-a1b0-4c8f-99a1-9ced14f72171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;problem-description&quot;)/div[1]/div[@class=&quot;space-y-1&quot;]/textarea[@class=&quot;w-full flex text-sm border border-lightgrey-5 rounded-lg py-2 px-3 focus:outline-none focus:ring-transparent resize-none bg-[#F6F9FD]&quot;]</value>
+      <webElementGuid>8fcf277b-a4e8-431a-9519-36f50a0f7d0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='problem-description']/div/div/textarea</value>
+      <webElementGuid>745cbf91-133d-4083-aed0-fc3afcd5f7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>b3c8d164-b3f0-42ec-9784-eaa98e817386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Contoh: Saya memiliki permasalahan hutang, tapi saya tidak tahu harus bagaimana.']</value>
+      <webElementGuid>f7963a78-b83d-4d65-b342-2010c295b53d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

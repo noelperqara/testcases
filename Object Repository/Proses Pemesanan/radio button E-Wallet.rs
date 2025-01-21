@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio button E-Wallet</name>
+   <tag></tag>
+   <elementGuidId>6a80b9d2-79f9-4aa3-845c-9237029f64ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div/div[4]/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aea95c0c-e710-46a8-977b-22212a6df989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-full w-4 h-4 border shadow-sm border-[#C6CEDC]</value>
+      <webElementGuid>8e841a38-f7de-4647-b9fa-37e1eb8718b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-[#F6F9FD] min-h-[calc(100vh-64px)] font-lexend&quot;]/div[@class=&quot;max-w-[550px] mx-auto p-4 space-y-4 pb-32&quot;]/div[@class=&quot;bg-white rounded-xl p-3 shadow-sm space-y-3&quot;]/div[@class=&quot;space-y-3&quot;]/div[@class=&quot;p-3 space-y-2 rounded-lg shadow-sm border cursor-pointer hover:border-[#BAE6FF] border-[#EEF2F7] bg-white&quot;]/div[@class=&quot;flex items-center gap-2 text-xs text-[#647387] font-semibold&quot;]/div[@class=&quot;rounded-full w-4 h-4 border shadow-sm border-[#C6CEDC]&quot;]</value>
+      <webElementGuid>5cf6a6df-5821-497d-a2e6-69aa2e4e293f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div/div[4]/div[2]/div[2]/div/div</value>
+      <webElementGuid>49188289-0724-4c58-b862-7559b9299779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-wallet'])[1]/following::div[1]</value>
+      <webElementGuid>ef801a7e-a8d2-46c5-8384-f8508bc68ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/following::div[6]</value>
+      <webElementGuid>04faacb5-115a-4799-ac2d-cc5d93ed1e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar Sebelum 13 Jan 2025 16:16'])[1]/preceding::div[3]</value>
+      <webElementGuid>dce424bc-1d93-497e-92ae-05d02b74c2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div</value>
+      <webElementGuid>6e8c3d53-26da-471d-adc2-dfc22a1c3353</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

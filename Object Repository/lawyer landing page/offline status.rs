@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>offline status</name>
+   <tag></tag>
+   <elementGuidId>bb52d131-6529-49e0-8a8b-f4df625b1f81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.px-2.py-1.rounded-full.items-center.gap-1.inline-flex.bg-gray-200.border.border-zinc-300</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42436a31-4fb3-41a4-95f4-e0b90b01129d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 py-1 rounded-full items-center gap-1 inline-flex bg-gray-200 border border-zinc-300</value>
+      <webElementGuid>d163d4ee-a94f-4428-adf6-1fd0711b6e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Offline</value>
+      <webElementGuid>fd39d475-8732-4d02-a603-37a91e883d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;w-full py-3.5 px-4 h-16 bg-white transition-all duration-300 ease-in-out sticky top-0 z-50 bg-transparent&quot;]/div[@class=&quot;max-w-[1280px] mx-auto xl:px-40&quot;]/div[@class=&quot;flex justify-between gap-2 items-center&quot;]/div[@class=&quot;flex items-center gap-3 cursor-pointer&quot;]/div[@class=&quot;px-2 py-1 rounded-full items-center gap-1 inline-flex bg-gray-200 border border-zinc-300&quot;]</value>
+      <webElementGuid>a16e265e-9a12-45f3-bf74-3e478709ff1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div/div/div/div/div</value>
+      <webElementGuid>70011349-d74a-419a-94a0-cf5d9c155175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noel, S.H'])[1]/preceding::div[1]</value>
+      <webElementGuid>46d6455c-9c00-4360-a738-7e895b9e7d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>e05a1279-b9e6-4fbf-82a0-03e7de6905cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Offline' or . = 'Offline')]</value>
+      <webElementGuid>566fab3f-fd3c-41d2-a46a-86dcf6688a78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

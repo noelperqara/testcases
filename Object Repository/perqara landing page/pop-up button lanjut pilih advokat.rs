@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pop-up button lanjut pilih advokat</name>
+   <tag></tag>
+   <elementGuidId>3fe6ee7c-d821-4f1a-86f9-0de12ec5924e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fedeb206-2833-4ce6-bbd7-352a3c6a6f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>61839d9c-6619-4ee2-b786-4ffb6ea56e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4 py-2 bg-blue-2 text-white hover:bg-blue-9 rounded-lg font-medium w-full</value>
+      <webElementGuid>17ad1524-0ab7-4b92-982a-79a2123bddde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lanjut Pilih Advokat </value>
+      <webElementGuid>36d65f9d-d251-45d4-94b4-d81052778f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-[#F6F9FD]&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] md:w-[480px] max-h-[95%] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-7 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex flex-col items-center text-center gap-4 font-lexend antialiased&quot;]/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4 py-2 bg-blue-2 text-white hover:bg-blue-9 rounded-lg font-medium w-full&quot;]</value>
+      <webElementGuid>23a6ef3c-8a8e-4e75-8bcc-d1edce97993a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>5e2bb831-0787-4151-b344-e2d081d6c233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>615f19ff-c1b1-4111-9400-17f3fe6ab06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garansi kepuasan klien'])[1]/following::button[1]</value>
+      <webElementGuid>8a7e0587-98bf-4f33-8504-523e47b7181c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keamanan dan privasi terjamin'])[1]/following::button[1]</value>
+      <webElementGuid>13086536-31ec-47a4-9463-339acd97368c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan Advokat terbaik untuk Anda'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa863373-a1a2-41de-b52f-ac69ac9b90ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>3aa85953-9305-4fe0-aa14-c2b3ad767eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Lanjut Pilih Advokat ' or . = ' Lanjut Pilih Advokat ')]</value>
+      <webElementGuid>e0af392b-7e9e-489d-8165-24ebdea0e63c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

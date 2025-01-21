@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bintang 5 advokat</name>
+   <tag></tag>
+   <elementGuidId>7902c63d-0347-45e3-bb65-c43f12befeee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > img.w-6.h-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrap-contentRating']/div[3]/div/div/div/div[5]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6fe6af2e-de5a-4a65-bd6c-29f1d5cec5bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-6 h-6</value>
+      <webElementGuid>f385f10f-c125-45f2-bcbc-4f81df515fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/image/empty-star.png</value>
+      <webElementGuid>32bac68a-3a74-4f3f-878f-bf38c382aacc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>empty-star</value>
+      <webElementGuid>a66f3fad-fbce-4989-b057-5b1e5f317482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrap-contentRating&quot;)/div[3]/div[@class=&quot;py-2 flex justify-center&quot;]/div[1]/div[@class=&quot;flex flex-row gap-2&quot;]/div[5]/img[@class=&quot;w-6 h-6&quot;]</value>
+      <webElementGuid>454120c9-598e-4cf5-aa51-81fd686a109f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrap-contentRating']/div[3]/div/div/div/div[5]/img</value>
+      <webElementGuid>6bda69e7-d0a3-4a27-9d65-77cca0f50561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='empty-star'])[2]</value>
+      <webElementGuid>9676560c-0b47-41ff-9912-41390a552d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/img</value>
+      <webElementGuid>cc79b687-1dbd-449b-b519-014fa3cd7386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/image/empty-star.png' and @alt = 'empty-star']</value>
+      <webElementGuid>77849679-d388-46b2-b0d6-6ac1f8a0ee7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tombol batal perbarui</name>
+   <tag></tag>
+   <elementGuidId>a6eeaa3d-4e6f-4ed6-873c-284326087fae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>492bf810-6305-4b9b-a0c0-18f796fcdb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf5cea00-a8ba-4b24-b398-221ee3660c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4.5 py-2.5 md:text-lg ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg flex-1</value>
+      <webElementGuid>c6ed0607-f08a-4d63-8205-2653a199c22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Batal </value>
+      <webElementGuid>f15fde80-b76e-4042-9975-a7b12bf451d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;w-full py-3.5 px-4 h-16 bg-white transition-all duration-300 ease-in-out sticky top-0 z-50 bg-transparent&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] md:w-[480px] sm:max-h-[650px] max-h-[95%] max-h-[95%] scrollbar p-4 sm:p-5 md:p-7 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex items-center gap-6 justify-between w-full mt-6&quot;]/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4.5 py-2.5 md:text-lg ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg flex-1&quot;]</value>
+      <webElementGuid>02ff6bc4-be4e-4bb9-962f-ea3b8ccd7a9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>4302a58e-a085-4243-a713-35769b0061ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div/div[2]/div/div[4]/button</value>
+      <webElementGuid>e7bb4b53-c7c6-4b05-82a7-f30fa4ed5f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::button[1]</value>
+      <webElementGuid>b3f44873-15b9-4316-9cf1-4d19f34d1e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[2]/following::button[1]</value>
+      <webElementGuid>0baf4b85-b7f2-403f-b68b-6e924b4a777e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f4452ca1-e6f0-4b90-b365-4007923e0954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Batal ' or . = ' Batal ')]</value>
+      <webElementGuid>e95115e7-46b5-4944-82d9-338267cfa2e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

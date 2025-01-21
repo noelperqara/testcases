@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tombol perbarui</name>
+   <tag></tag>
+   <elementGuidId>4ab5d752-72f5-4584-80e2-a6d53249b4bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7ae3f0ee-4e46-4022-81d5-95de8214d891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34119327-87f8-46da-b5c8-5da4e58f9ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4.5 py-2.5 md:text-lg bg-blue-2 text-white hover:bg-blue-9 rounded-lg flex-1 text-center</value>
+      <webElementGuid>c1ee6971-cb7f-436d-a1b3-5db06efefebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Perbarui </value>
+      <webElementGuid>30120fc5-e2a0-42ef-aa0c-c4533573b68d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;w-full py-3.5 px-4 h-16 bg-white transition-all duration-300 ease-in-out sticky top-0 z-50 bg-transparent&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] md:w-[480px] sm:max-h-[650px] max-h-[95%] max-h-[95%] scrollbar p-4 sm:p-5 md:p-7 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex items-center gap-6 justify-between w-full mt-6&quot;]/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-4.5 py-2.5 md:text-lg bg-blue-2 text-white hover:bg-blue-9 rounded-lg flex-1 text-center&quot;]</value>
+      <webElementGuid>eb1c5a7d-80ff-47e4-9d5d-84c16ed0163a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>9518d8a0-3712-491f-9687-30308c551def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div/div[2]/div/div[4]/button[2]</value>
+      <webElementGuid>795806a9-0315-4b06-89d1-1daf59a3fdf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::button[2]</value>
+      <webElementGuid>9f2df434-f228-4149-814e-7ac808e848a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>8b8fc04f-a319-4a84-a751-5dae2cf40c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Perbarui ' or . = ' Perbarui ')]</value>
+      <webElementGuid>e0b8f74f-dc14-4b19-abad-097a0e9f01c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

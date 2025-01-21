@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testimoni</name>
+   <tag></tag>
+   <elementGuidId>7684f136-fa7c-432f-97c7-7a2ef9f03c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c541b03-7a36-4229-a69f-652478b958ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:bg-[#E3F4FD]/80 lg:rounded-2xl lg:px-20 sm:px-0 px-4 lg:max-h-[800px] overflow-hidden flex-1</value>
+      <webElementGuid>4f99116b-1017-4ef9-84df-8fa868e87511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Desi Permatasari, S.H., M.H. &quot;Terima kasih banyak bu desi, bener2 sangat membantu bahkan rasanya saya seperti bicara kepada kakak/ibu sendiri versi mengerti hukum🙏🏻🥰sehat dan sukses selalu bu desi🥰🥰&quot; Klien PerqaraYakup Putra Hasibuan, S.H., LL.M &quot;Advokat sangat membantu saya dalam menemukan solusi dan langkah hukum yang harus saya lakukan terhadap masalah saya.&quot; Klien PerqaraRicky Rachmat Yuniardi, S.H., M.H., C.L.A. &quot;Saya cukup puas selama konsultasi, karena insight yang diberikan cukup baik dan jujur sehingga saya bisa menentukan keputusan apa yang sekiranya mungkin saya ambil.&quot; Klien PerqaraChairunnisa Ratu Salma, S.H. &quot;Sangat informatif dan solutif, untuk saya yg tidak memahami hukum sehingga saya tau langkah hukum apa yg lebih dulu ditempuh.&quot; Klien PerqaraAlvin Afriansyah, S.H., M.H. &quot;Sangat membantu saya mendapatkan pencerahan dan tau apa yang harus saya lakukan kedepannya, terimakasih sekali lagi pak.&quot; Klien Perqara</value>
+      <webElementGuid>6d39b238-647e-4266-82e7-b7279c276569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/div[@class=&quot;font-lexend antialiased&quot;]/div[@class=&quot;bg-[url('/image/register/banner-register.png')] bg-cover bg-[#E3F4FD] lg:min-h-screen&quot;]/div[@class=&quot;md:max-w-[492px] lg:max-w-[1280px] sm:px-4 xl:px-40 mx-auto py-6&quot;]/div[1]/div[@class=&quot;flex lg:flex-row flex-col gap-6&quot;]/div[@class=&quot;lg:bg-[#E3F4FD]/80 lg:rounded-2xl lg:px-20 sm:px-0 px-4 lg:max-h-[800px] overflow-hidden flex-1&quot;]</value>
+      <webElementGuid>5e6143ab-f52a-41de-bf1d-d181229b2a03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>0b1aed87-9677-4a93-aa92-f0f42ad92661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[2]</value>
+      <webElementGuid>ce64b134-ed75-4e1b-a474-104034266a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div</value>
+      <webElementGuid>2363bebf-e487-4924-afd3-678ef2139e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Desi Permatasari, S.H., M.H. &quot;Terima kasih banyak bu desi, bener2 sangat membantu bahkan rasanya saya seperti bicara kepada kakak/ibu sendiri versi mengerti hukum🙏🏻🥰sehat dan sukses selalu bu desi🥰🥰&quot; Klien PerqaraYakup Putra Hasibuan, S.H., LL.M &quot;Advokat sangat membantu saya dalam menemukan solusi dan langkah hukum yang harus saya lakukan terhadap masalah saya.&quot; Klien PerqaraRicky Rachmat Yuniardi, S.H., M.H., C.L.A. &quot;Saya cukup puas selama konsultasi, karena insight yang diberikan cukup baik dan jujur sehingga saya bisa menentukan keputusan apa yang sekiranya mungkin saya ambil.&quot; Klien PerqaraChairunnisa Ratu Salma, S.H. &quot;Sangat informatif dan solutif, untuk saya yg tidak memahami hukum sehingga saya tau langkah hukum apa yg lebih dulu ditempuh.&quot; Klien PerqaraAlvin Afriansyah, S.H., M.H. &quot;Sangat membantu saya mendapatkan pencerahan dan tau apa yang harus saya lakukan kedepannya, terimakasih sekali lagi pak.&quot; Klien Perqara' or . = 'Desi Permatasari, S.H., M.H. &quot;Terima kasih banyak bu desi, bener2 sangat membantu bahkan rasanya saya seperti bicara kepada kakak/ibu sendiri versi mengerti hukum🙏🏻🥰sehat dan sukses selalu bu desi🥰🥰&quot; Klien PerqaraYakup Putra Hasibuan, S.H., LL.M &quot;Advokat sangat membantu saya dalam menemukan solusi dan langkah hukum yang harus saya lakukan terhadap masalah saya.&quot; Klien PerqaraRicky Rachmat Yuniardi, S.H., M.H., C.L.A. &quot;Saya cukup puas selama konsultasi, karena insight yang diberikan cukup baik dan jujur sehingga saya bisa menentukan keputusan apa yang sekiranya mungkin saya ambil.&quot; Klien PerqaraChairunnisa Ratu Salma, S.H. &quot;Sangat informatif dan solutif, untuk saya yg tidak memahami hukum sehingga saya tau langkah hukum apa yg lebih dulu ditempuh.&quot; Klien PerqaraAlvin Afriansyah, S.H., M.H. &quot;Sangat membantu saya mendapatkan pencerahan dan tau apa yang harus saya lakukan kedepannya, terimakasih sekali lagi pak.&quot; Klien Perqara')]</value>
+      <webElementGuid>8b3eb733-4e11-4147-bbaa-725d6fcfd128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

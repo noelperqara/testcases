@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of Data Pendukung tooltip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5341d9d-4f4d-4b2c-8fb1-ec6ab42bfa2a</testCaseGuid>
+</TestCaseEntity>

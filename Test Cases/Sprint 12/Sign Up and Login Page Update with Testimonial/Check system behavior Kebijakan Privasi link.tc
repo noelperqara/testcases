@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior Kebijakan Privasi link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6c7ae02-96d2-490e-8ff8-1d6411d8f53e</testCaseGuid>
+</TestCaseEntity>

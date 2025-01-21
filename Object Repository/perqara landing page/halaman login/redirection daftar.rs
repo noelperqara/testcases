@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>redirection daftar</name>
+   <tag></tag>
+   <elementGuidId>0537a954-c94e-4cb8-8d5b-f89188d902c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div/div/div/div/div/a/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>40a92ff9-3413-482d-8067-261bd7203be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2 sm:h-10 h-8 bg-[#F3FBFF] rounded-md sm:px-4 px-3 sm:text-sm text-xs font-semibold text-blue-2 hover:bg-white hover:text-[#1192E8] transition-colors</value>
+      <webElementGuid>4260d433-e008-4c1e-a98d-3a9aed6fd306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Daftar </value>
+      <webElementGuid>5143444f-94ae-48df-857a-3eccbbca0162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/div[@class=&quot;font-lexend antialiased&quot;]/div[@class=&quot;bg-[url('/image/register/banner-register.png')] bg-cover bg-[#E3F4FD] lg:min-h-screen&quot;]/div[@class=&quot;md:max-w-[492px] lg:max-w-[1280px] sm:px-4 xl:px-40 mx-auto py-6&quot;]/div[1]/div[@class=&quot;flex items-center justify-between py-2 px-4 sm:px-0 mb-3&quot;]/div[@class=&quot;font-semibold sm:text-base text-sm&quot;]/a[1]/button[@class=&quot;ml-2 sm:h-10 h-8 bg-[#F3FBFF] rounded-md sm:px-4 px-3 sm:text-sm text-xs font-semibold text-blue-2 hover:bg-white hover:text-[#1192E8] transition-colors&quot;]</value>
+      <webElementGuid>50f6de12-8e8b-4209-8e2b-a79c4c70f5dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div/div/div/div/div/a/button</value>
+      <webElementGuid>d1887553-e5ac-4528-976a-e887ac74d067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klien Perqara'])[1]/preceding::button[1]</value>
+      <webElementGuid>2b1e776a-a180-4970-a96c-62fecbabef76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klien Perqara'])[2]/preceding::button[1]</value>
+      <webElementGuid>a8a7f549-49bf-49eb-9fbd-30cf1dd78850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>505f3e1e-fb35-4680-a6e9-a6fc24ef1531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>05d92378-ef6f-44b4-a8f2-0081bc14c8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Daftar ' or . = ' Daftar ')]</value>
+      <webElementGuid>9fb373d7-3035-44dc-b381-f31f61a169c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

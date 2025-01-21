@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal konsultasi hukum-decision tree</name>
+   <tag></tag>
+   <elementGuidId>c51de481-7205-4583-9298-f86cb9484de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c277083c-5268-4902-a184-403266c2ee9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center gap-2 mt-4 bg-[#F3FBFF] border border-[#EAEFF5] rounded-lg p-3 cursor-pointer</value>
+      <webElementGuid>c15631df-55dc-45aa-b9e0-96f0f410e904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Panduan memilih Advokat  Perqara akan menanyakan pertanyaan seputar kasus Anda dan memberikan rekomendasi Advokat. </value>
+      <webElementGuid>d3162a3e-4e44-4af4-8d6f-64c9d39f1455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-white font-lexend -mt-16&quot;]/div[@class=&quot;w-full h-full relative&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/div[@class=&quot;flex justify-between items-center gap-2 mt-4 bg-[#F3FBFF] border border-[#EAEFF5] rounded-lg p-3 cursor-pointer&quot;]</value>
+      <webElementGuid>65a54410-d502-4d72-b6a5-f64ea2168e66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/div[3]</value>
+      <webElementGuid>38c6dbd2-8bb7-44d4-b685-03a989ffbe0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat semua Advokat'])[1]/following::div[1]</value>
+      <webElementGuid>08249c5b-29b6-461e-b2a2-72d4f926e086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disc. 60%'])[1]/following::div[3]</value>
+      <webElementGuid>7c2ea72f-369b-459b-9ace-aaa863bc938f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapat 3x Konsultasi Gratis dengan Pro bono'])[1]/preceding::div[3]</value>
+      <webElementGuid>da6d3902-4334-4629-a637-f1a3c3380da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>48b898ef-0767-4d51-adc1-caf34857f4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Panduan memilih Advokat  Perqara akan menanyakan pertanyaan seputar kasus Anda dan memberikan rekomendasi Advokat. ' or . = ' Panduan memilih Advokat  Perqara akan menanyakan pertanyaan seputar kasus Anda dan memberikan rekomendasi Advokat. ')]</value>
+      <webElementGuid>10efff21-2aff-4f93-9f7f-818b2b09b043</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

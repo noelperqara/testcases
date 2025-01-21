@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify element UI of new landing page with testimonial</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45253140-4321-41c2-b7ea-7fd605585057</testCaseGuid>
+</TestCaseEntity>

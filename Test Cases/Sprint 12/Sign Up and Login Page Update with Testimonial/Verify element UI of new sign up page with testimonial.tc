@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify element UI of new sign up page with testimonial</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24017fc0-c64c-4cf8-a0df-061f40f68dd0</testCaseGuid>
+</TestCaseEntity>

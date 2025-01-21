@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior Syarat dan Ketentuan link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>180c979c-2a59-4248-8851-424124fef21a</testCaseGuid>
+</TestCaseEntity>

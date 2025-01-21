@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of Lihat Semua Advokat hover in Konsultasi Hukum modal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb46330e-2b3b-42e1-b9e7-d5fd4dfa4ac9</testCaseGuid>
+</TestCaseEntity>

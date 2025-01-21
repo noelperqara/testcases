@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal konsultasi hukum-pro bono</name>
+   <tag></tag>
+   <elementGuidId>c5c5ea2f-869a-484b-9791-4e71073ccaef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c18bf5d-4f83-4af9-9b40-27985c31f744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between gap-1 py-2 px-4 rounded-md items-center text-lexend text-[#181E23] border border-[#FFD7D9] md:font-semibold bg-[linear-gradient(86.05deg,#FF5B5E_-6.62%,#FFF1F1_14.97%)] text-xs</value>
+      <webElementGuid>6b20f53e-2da5-416d-b8b8-cbadff10c6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari</value>
+      <webElementGuid>11e8152b-3378-4d5f-9ac0-58025202758c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;bg-white font-lexend -mt-16&quot;]/div[@class=&quot;w-full h-full relative&quot;]/div[@class=&quot;grid place-items-center fixed top-0 left-0 w-full h-full bg-black/50 z-50 xl:px-36&quot;]/div[@class=&quot;bg-white shadow-lg absolute overflow-auto w-full xs:w-[500px] overflow-y-auto max-h-[95%] scrollbar p-4 sm:p-5 md:p-6 bottom-0 xs:bottom-auto rounded-b-none xs:rounded-b-2xl rounded-t-2xl&quot;]/a[1]/div[@class=&quot;flex justify-between gap-1 py-2 px-4 rounded-md items-center text-lexend text-[#181E23] border border-[#FFD7D9] md:font-semibold bg-[linear-gradient(86.05deg,#FF5B5E_-6.62%,#FFF1F1_14.97%)] text-xs&quot;]</value>
+      <webElementGuid>84d9ee9c-261d-4744-89a6-40bada24eb51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div[2]/div[2]/div/div/a/div</value>
+      <webElementGuid>84910adf-501b-40f3-b8b6-bc9c6858749f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panduan memilih Advokat'])[1]/following::div[2]</value>
+      <webElementGuid>3589c66b-04e0-4977-928c-1038020a0c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat semua Advokat'])[1]/following::div[4]</value>
+      <webElementGuid>d11e8c6f-f797-4a1c-a289-a87e4826939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div</value>
+      <webElementGuid>b33a207e-0bf8-40d1-919c-19032ed28a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari' or . = 'Dapat 3x Konsultasi Gratis dengan Pro bonoPelajari')]</value>
+      <webElementGuid>acefc997-22ab-4812-8f08-ce1885dee152</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

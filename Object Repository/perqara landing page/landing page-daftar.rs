@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>landing page-daftar</name>
+   <tag></tag>
+   <elementGuidId>8febf472-0776-401e-984e-04ef3c701550</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/main/div/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Daftar ' or . = ' Daftar ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d419ff4d-a85e-4b97-84b5-bbeb0bbc7284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-2 bg-white border-blue-2 text-blue-2 py-1.5 px-3 rounded-lg leading-5</value>
+      <webElementGuid>fdd96bc8-dc9e-4af7-9f21-348e8d89dfb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Daftar </value>
+      <webElementGuid>40b3c7fc-d006-406d-a36a-2b58d142dd20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/main[1]/div[@class=&quot;relative w-full py-2.5 px-4 h-16 transition-all duration-300 ease-in-out sticky top-0 z-50 bg-transparent top-16&quot;]/div[@class=&quot;max-w-[1280px] mx-auto xl:px-40&quot;]/div[@class=&quot;flex justify-between gap-2 items-center&quot;]/div[@class=&quot;flex items-center gap-3&quot;]/div[@class=&quot;flex rounded-lg bg-gradient-to-r from-[#4F46E5] to-[#46A7E2] w-full items-center&quot;]/button[@class=&quot;border-2 bg-white border-blue-2 text-blue-2 py-1.5 px-3 rounded-lg leading-5&quot;]</value>
+      <webElementGuid>d2cb9edb-0c53-4c29-aec5-0422dffc3c5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/main/div/div/div/div[2]/div/button</value>
+      <webElementGuid>83cd107b-53fa-4d5e-8002-060e35f1cfc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::button[1]</value>
+      <webElementGuid>b116f93e-8477-4eaf-98af-b2b3eafd4031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Hukum'])[1]/following::button[1]</value>
+      <webElementGuid>37205c3d-4c30-47dc-9fda-22a25dc3cc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c9ecf20-bd1c-45dc-bc03-63c81e552018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Hukum'])[2]/preceding::button[2]</value>
+      <webElementGuid>cc5f13e8-c5c1-4ec0-8df3-6c29d5ac4968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>b1b648fc-9585-4451-b280-406e62785ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>0aef24fa-c9c9-4b38-ae4e-7d3c323347be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Daftar ' or . = ' Daftar ')]</value>
+      <webElementGuid>9d823202-adfb-44d0-ab9a-7d2b98a26f80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal login-masuk</name>
+   <tag></tag>
+   <elementGuidId>9b9b25ee-8eb4-4a95-84be-5a6cfb165a9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='register']/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mt-4.py-2.w-full.text-white.text-bold.text-lg.rounded-md.bg-blue-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>426fef63-f30e-4bcf-bef1-60ce96c48f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-4 py-2 w-full text-white text-bold text-lg rounded-md bg-blue-2</value>
+      <webElementGuid>b620f171-0630-42e4-92f8-5eb330856cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk </value>
+      <webElementGuid>6ca84597-f63d-43cb-b3c5-0cc78e564ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register&quot;)/div[@class=&quot;md:px-8 px-6&quot;]/button[@class=&quot;mt-4 py-2 w-full text-white text-bold text-lg rounded-md bg-blue-2&quot;]</value>
+      <webElementGuid>58ce7f02-5d29-4272-b87a-8328fecfd03a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='register']/div[2]/button</value>
+      <webElementGuid>e13ca8b2-17e3-4fc0-88c3-eebf2ad03ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi Anda?'])[1]/following::button[1]</value>
+      <webElementGuid>01eacf4b-c8a4-47c1-892a-dfcd9e584885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[2]/following::button[4]</value>
+      <webElementGuid>93910c6e-4859-4d50-aec6-cf158580aa67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar disini'])[1]/preceding::button[1]</value>
+      <webElementGuid>391e203c-8259-457f-ae56-93f08127a192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Chrome'])[1]/preceding::button[2]</value>
+      <webElementGuid>9a0c26b6-bf6c-4d41-97e6-6436917483a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div[2]/button</value>
+      <webElementGuid>02b7f0b3-461e-4964-8ce6-628da988e940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>5adfd8a7-f0c7-414a-b26c-a101a76116cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

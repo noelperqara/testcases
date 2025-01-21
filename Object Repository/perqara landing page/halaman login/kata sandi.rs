@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kata sandi</name>
+   <tag></tag>
+   <elementGuidId>ca911e13-1ecf-43b0-a1df-0ba6e6d7142b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8a50c226-4cac-4df8-9bc2-492e4365f9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>f8661775-1613-4cce-add2-b11b39ff7b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Abc1*</value>
+      <webElementGuid>4bfaa689-8d83-401a-a71d-d818c24ecf0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-none w-full flex-1 rounded-lg focus:ring-2</value>
+      <webElementGuid>979f3751-98ea-4af4-a5c6-c5cbabb2a968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/div[@class=&quot;font-lexend antialiased&quot;]/div[@class=&quot;bg-[url('/image/register/banner-register.png')] bg-cover bg-[#E3F4FD] lg:min-h-screen&quot;]/div[@class=&quot;md:max-w-[492px] lg:max-w-[1280px] sm:px-4 xl:px-40 mx-auto py-6&quot;]/div[1]/div[@class=&quot;flex lg:flex-row flex-col gap-6&quot;]/div[@class=&quot;flex flex-col justify-between w-full h-[532px] md:h-[640px] lg:w-[386px] p-4 md:p-6 rounded-2xl bg-white md:shadow-[0_20px_50px_0_rgba(0,0,0,0.13)]&quot;]/div[1]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[2]/div[@class=&quot;relative w-full border rounded-lg text-black border-gray-300&quot;]/input[@class=&quot;border-none w-full flex-1 rounded-lg focus:ring-2&quot;]</value>
+      <webElementGuid>9a00e428-5720-4896-b8c8-77d582a6a8a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>d6022f67-48ad-4bff-b05a-42b34e2b8c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/input</value>
+      <webElementGuid>3f36f3df-a94d-4de5-9230-6864077aab8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>dc095587-be21-4a85-a65c-bea489fd8f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Contoh: Abc1*']</value>
+      <webElementGuid>3a283310-16b1-4efc-a94b-4dd23d457a04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

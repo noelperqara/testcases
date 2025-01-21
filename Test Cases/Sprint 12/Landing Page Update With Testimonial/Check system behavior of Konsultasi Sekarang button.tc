@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check system behavior of Konsultasi Sekarang button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>772a302b-7873-4db7-b20d-9672eeddaa99</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal login-nomor ponsel atau email</name>
+   <tag></tag>
+   <elementGuidId>cce4eeba-99e1-466b-ba2c-9e30bb8cc3e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'email@email.com atau 0813302938***']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>96e5581c-8f7b-4b95-8027-d114d38ecdf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c6a0f86f-02ae-41ad-89a4-c3a6b121b233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>email@email.com atau 0813302938***</value>
+      <webElementGuid>0a8b68e8-bc4d-44af-946e-36720a6b6d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-none w-full flex-1 rounded-lg focus:ring-2 error</value>
+      <webElementGuid>d8e616c1-bbca-46ff-aecc-41029806f02d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register&quot;)/div[@class=&quot;md:px-8&quot;]/div[@class=&quot;pt-8 px-6 lg:pt-10&quot;]/div[1]/div[@class=&quot;relative w-full border rounded-lg text-black border-gray-300&quot;]/input[@class=&quot;border-none w-full flex-1 rounded-lg focus:ring-2 error&quot;]</value>
+      <webElementGuid>ba078a1f-d22f-4110-9319-20a24fd4c560</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>78ca8742-876c-486f-a1c0-e570b3beb410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='register']/div[3]/div/div/div/input</value>
+      <webElementGuid>d034f267-50e7-4282-a7ba-a049fde2ea9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>f7c3f6fb-a6ef-4a07-8802-19f8162c3439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'email@email.com atau 0813302938***']</value>
+      <webElementGuid>5a1b6834-e545-4c63-96f8-78ca32905037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

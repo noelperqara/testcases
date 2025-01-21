@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form login</name>
+   <tag></tag>
+   <elementGuidId>228414c4-da4f-4f6e-9e20-895bb27ca384</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f05b70fa-b1d6-43e5-a5a2-5d462fde1d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col justify-between w-full h-[532px] md:h-[640px] lg:w-[386px] p-4 md:p-6 rounded-2xl bg-white md:shadow-[0_20px_50px_0_rgba(0,0,0,0.13)]</value>
+      <webElementGuid>7dbcf381-67e4-4cb9-8543-b386c7bc42ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk Akun Nomor Ponsel atau EmailKata Sandi Lupa kata sandi?  Masuk  Masuk sebagai Advokat  Untuk pengalaman lebih baik, anda dapat menggunakan browser Google Chrome atau Firefox</value>
+      <webElementGuid>074e4c5e-43bd-477b-8666-fd99f4c9a697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;bg-cultured font-dm-sans min-h-screen&quot;]/div[@class=&quot;font-lexend antialiased&quot;]/div[@class=&quot;bg-[url('/image/register/banner-register.png')] bg-cover bg-[#E3F4FD] lg:min-h-screen&quot;]/div[@class=&quot;md:max-w-[492px] lg:max-w-[1280px] sm:px-4 xl:px-40 mx-auto py-6&quot;]/div[1]/div[@class=&quot;flex lg:flex-row flex-col gap-6&quot;]/div[@class=&quot;flex flex-col justify-between w-full h-[532px] md:h-[640px] lg:w-[386px] p-4 md:p-6 rounded-2xl bg-white md:shadow-[0_20px_50px_0_rgba(0,0,0,0.13)]&quot;]</value>
+      <webElementGuid>8b16a4e6-80e3-4e6d-9058-8060d4ba3961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>c3049964-0071-4f32-98a8-7c3398b211d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klien Perqara'])[5]/following::div[1]</value>
+      <webElementGuid>5fe4363c-df08-4d21-99c1-9b8f4dd1a3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klien Perqara'])[4]/following::div[6]</value>
+      <webElementGuid>731436d6-7dac-4485-8fdc-62510b8e7c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>65392773-32f3-4436-9074-3388132facec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Masuk Akun Nomor Ponsel atau EmailKata Sandi Lupa kata sandi?  Masuk  Masuk sebagai Advokat  Untuk pengalaman lebih baik, anda dapat menggunakan browser Google Chrome atau Firefox' or . = ' Masuk Akun Nomor Ponsel atau EmailKata Sandi Lupa kata sandi?  Masuk  Masuk sebagai Advokat  Untuk pengalaman lebih baik, anda dapat menggunakan browser Google Chrome atau Firefox')]</value>
+      <webElementGuid>902fd562-0400-4ba6-adf3-af7527c307f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

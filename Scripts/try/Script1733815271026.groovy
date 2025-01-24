@@ -17,3 +17,87 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://staging.perqara.com/')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'noelchristoper@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('null'), 
+    '9+2MJ43KhedMW7pNG3WvRw==')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), '1')
+
+WebUI.setText(findTestObject('null'), '1')
+
+WebUI.setText(findTestObject('null'), '1')
+
+WebUI.setText(findTestObject('null'), '1')
+
+WebUI.setText(findTestObject('null'), '1')
+
+WebUI.setText(findTestObject('null'), '1')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'noel')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    '[Testinggg automation scriptt]')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.switchToWindowTitle('Checkout - #PC-2501243471')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.switchToWindowTitle('Perqara - Konsultasi Hukum Online')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), '[Testinggg automation scriptt]')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.closeBrowser()
+

@@ -65,16 +65,20 @@ WebUI.click(findTestObject('Object Repository/perqara landing page/pop-up button
 WebUI.setText(findTestObject('Object Repository/Daftar Advokat/field Cari Advokat'), 'noel')
 WebUI.click(findTestObject('Object Repository/Daftar Advokat/ikon search'))
 WebUI.waitForPageLoad(5)
-if(WebUI.verifyElementClickable(findTestObject('Object Repository/Daftar Advokat/tombol Konsultasi'), FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Object Repository/Daftar Advokat/tombol Konsultasi'))
-} else {
-	WebUI.verifyElementVisible(findTestObject('Object Repository/Daftar Advokat/informasi advokat sedang menangani kasus lain'))
-}
+WebUI.click(findTestObject('Object Repository/Daftar Advokat/tombol Konsultasi'))
+
+//if(WebUI.verifyElementClickable(findTestObject('Object Repository/Daftar Advokat/tombol Konsultasi'), FailureHandling.OPTIONAL)) {
+//	WebUI.click(findTestObject('Object Repository/Daftar Advokat/tombol Konsultasi'))
+//} else {
+//	WebUI.verifyElementVisible(findTestObject('Object Repository/Daftar Advokat/informasi advokat sedang menangani kasus lain'))
+//}
+
 WebUI.click(findTestObject('Object Repository/Daftar Advokat/popup Pilih Konsultasi'))
 WebUI.click(findTestObject('Object Repository/Daftar Advokat/Perdata'))
 WebUI.setText(findTestObject('Object Repository/Proses Pemesanan/field deskripsi masalah'), '[Testing] Automation Script')
 WebUI.click(findTestObject('Object Repository/Proses Pemesanan/tombol Ke Pembayaran'))
 WebUI.click(findTestObject('Object Repository/Proses Pemesanan/tombol Ke Pembayaran_modal info pembayaran'))
+WebUI.scrollToElement(findTestObject('Object Repository/Proses Pemesanan/radio button E-Wallet'), 5)
 WebUI.click(findTestObject('Object Repository/Proses Pemesanan/radio button E-Wallet'))
 WebUI.click(findTestObject('Object Repository/Proses Pemesanan/tombol bayar'))
 WebUI.waitForPageLoad(5)
@@ -84,14 +88,12 @@ WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/OVO'))
 WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/tombol Click here to simulate your payment with OVO'))
 WebUI.waitForPageLoad(10)
 WebUI.switchToWindowTitle("Perqara - Konsultasi Hukum Online")
-// WebUI.waitForPageLoad(10)
-WebUI.refresh()
-WebUI.waitForPageLoad(10)
-WebUI.click(findTestObject('Object Repository/Proses Pemesanan/tombol Cek Status'))
-// WebUI.waitForPageLoad(10)
+//WebUI.waitForPageLoad(10)
+WebUI.click(findTestObject('Object Repository/Proses Pemesanan/Cek Status'))
 
-// WebUI.click(findTestObject('Object Repository/Accept Konsultasi/tombol_Masuk Room Chat'))
-// WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(5)
+WebUI.refresh()
+WebUI.click(findTestObject('Object Repository/Waiting Room/tombol_Masuk Waiting Room'))
 
 //Melakukan pengecekan terhadap konsultasi yang sedang berlangsung
 ResponseObject ongoingconsultation = WS.sendRequest(findTestObject('Object Repository/api/ongoing consultation'))
@@ -112,6 +114,7 @@ def considpayload = JsonOutput.toJson([
 
 println ('approval json: ' + considpayload)
 
+
 //Menerima permintaan konsultasi yang sedang aktif
 ResponseObject consultationapproval = WS.sendRequest(findTestObject('Object Repository/api/approve', [
 										  ('body'): considpayload
@@ -122,6 +125,9 @@ println "" + consultationapproval.getStatusCode()
 def consultationapprovalresponse = new JsonSlurper().parseText(consultationapproval.getResponseText())
 
 println "response approval: " + consultationapprovalresponse
+
+WebUI.refresh()
+WebUI.click(findTestObject('Object Repository/Waiting Room/tombol_Masuk Waiting Room'))
 
 //Lawyer mengakhiri sesi konsultasi
 ResponseObject endconsultation = WS.sendRequest(findTestObject('Object Repository/api/end consultation', [
@@ -160,6 +166,7 @@ ResponseObject posttohistory = WS.sendRequest(findTestObject('Object Repository/
 								  ]))
 
 println "" + posttohistory.getStatusCode()
+
 //Set up summary payload
 def postsummarypayload = JsonOutput.toJson([
 	room_key: roomkey,
@@ -183,9 +190,9 @@ println "response summary:" + setsummaryresponse
 
 
 WebUI.click(findTestObject('Object Repository/Accept Konsultasi/bintang 5 advokat'))
-WebUI.setText(findTestObject('Object Repository/Accept Konsultasi/review'), '[Testing] Automation script')
+WebUI.setText(findTestObject('Object Repository/Accept Konsultasi/review'), 'I think this Lawyers answer is good')
+// WebUI.scrollToElement(findTestObject('Object Repository/Accept Konsultasi/bintang 5 pelayanan perqara'), 5)
 WebUI.click(findTestObject('Object Repository/Accept Konsultasi/bintang 5 pelayanan perqara'))
 WebUI.click(findTestObject('Object Repository/Accept Konsultasi/tombol kirim'))
-
 
 

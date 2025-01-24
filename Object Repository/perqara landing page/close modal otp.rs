@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[2]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Hukum'])[2]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>a562c1c5-3396-4b52-bdbe-9efac50176ef</webElementGuid>
+      <webElementGuid>ac3b3dc2-1bd1-49fc-81b8-2c04ae2ca622</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>ac2f2ade-2df7-4502-9043-184317953033</webElementGuid>
+      <webElementGuid>ae6e3955-4997-45b8-adb6-13f6e8f8b234</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>b3c540fe-a6da-4d29-a782-3a7bc6efd04b</webElementGuid>
+      <webElementGuid>e5659c0a-fd35-4df4-8b06-d5ec1c8e46c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>2c639fd7-0f84-42ef-9099-9454549a6a7e</webElementGuid>
+      <webElementGuid>192c6743-dd32-4188-8047-e1d7683e96d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>1.5</value>
-      <webElementGuid>0ac3e350-2481-40b9-98bb-ea27dfc69798</webElementGuid>
+      <webElementGuid>92515c14-8078-473d-93ab-69dc6993ccd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>black</value>
-      <webElementGuid>f01f1c8f-76cd-4858-99ab-46c9770562aa</webElementGuid>
+      <webElementGuid>00bf99c3-0691-4761-9b11-dfbf70ac942e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-6 h-6</value>
-      <webElementGuid>72ba6e7c-22b8-435d-ad3a-3281fba7cf76</webElementGuid>
+      <webElementGuid>fb148441-d383-4431-9998-8da222cbfd36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginVerification&quot;)/div[@class=&quot;pt-10 px-8 hidden md:block&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;-mt-5&quot;]/button[1]/svg[@class=&quot;w-6 h-6&quot;]</value>
-      <webElementGuid>2fdf1946-de06-42b5-8cea-49c91b3cbe39</webElementGuid>
+      <webElementGuid>220ffefc-af30-4724-9454-409bb93092d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>565f2625-f46b-42ae-88e4-3258fe418213</webElementGuid>
+      <webElementGuid>31d3f9e4-1d00-4d87-9e8f-e01dbf8de047</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Hukum'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>9096be35-4e28-49c7-a6dd-c35cf260ffd0</webElementGuid>
+      <webElementGuid>9316d2c5-a305-473c-aee0-b8171681eefc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Nomor Telepon'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>d0b768ff-9726-487a-a8d0-cffe3b8ea613</webElementGuid>
+      <webElementGuid>b654acf3-7706-4596-81e9-eb58e7d727a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>85408e0a-425d-41f5-9a81-4e6176528e75</webElementGuid>
+      <webElementGuid>922c4fab-b500-44cd-9134-0d81968b6378</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

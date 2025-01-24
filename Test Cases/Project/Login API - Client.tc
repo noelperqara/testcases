@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login API - Client</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6252e046-daf5-4b3c-b66a-0bf0fbc2a959</testCaseGuid>
+</TestCaseEntity>

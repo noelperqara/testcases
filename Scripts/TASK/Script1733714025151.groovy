@@ -19,6 +19,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import groovy.json.JsonSlurper
 import com.kms.katalon.core.testobject.ResponseObject
+import groovy.json.JsonOutput
 
 //backend Lawyer login dengan menggunakan valid credentials
 ResponseObject loginResponse = WS.sendRequest(findTestObject('Object Repository/api/login lawyer'))
@@ -83,16 +84,17 @@ WebUI.click(findTestObject('Object Repository/Proses Pemesanan/radio button E-Wa
 WebUI.click(findTestObject('Object Repository/Proses Pemesanan/tombol bayar'))
 WebUI.waitForPageLoad(5)
 WebUI.switchToWindowIndex(1)
-WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/dropdown E-wallet'))
-WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/OVO'))
-WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/tombol Click here to simulate your payment with OVO'))
-WebUI.waitForPageLoad(10)
+WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/Dropdown Ewallet'))
+WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/ewallet ovo'))
+WebUI.click(findTestObject('Object Repository/Pembayaran Xendit/simulasikan pembayaran'))
+WebUI.delay(5)
 WebUI.switchToWindowTitle("Perqara - Konsultasi Hukum Online")
 //WebUI.waitForPageLoad(10)
-WebUI.click(findTestObject('Object Repository/Proses Pemesanan/Cek Status'))
-
-WebUI.waitForPageLoad(5)
+//WebUI.click(findTestObject('Object Repository/Proses Pemesanan/button_Cek Status'))
+//
+//WebUI.waitForPageLoad(5)
 WebUI.refresh()
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/Waiting Room/tombol_Masuk Waiting Room'))
 
 //Melakukan pengecekan terhadap konsultasi yang sedang berlangsung
@@ -125,9 +127,6 @@ println "" + consultationapproval.getStatusCode()
 def consultationapprovalresponse = new JsonSlurper().parseText(consultationapproval.getResponseText())
 
 println "response approval: " + consultationapprovalresponse
-
-WebUI.refresh()
-WebUI.click(findTestObject('Object Repository/Waiting Room/tombol_Masuk Waiting Room'))
 
 //Lawyer mengakhiri sesi konsultasi
 ResponseObject endconsultation = WS.sendRequest(findTestObject('Object Repository/api/end consultation', [
@@ -195,4 +194,4 @@ WebUI.setText(findTestObject('Object Repository/Accept Konsultasi/review'), 'I t
 WebUI.click(findTestObject('Object Repository/Accept Konsultasi/bintang 5 pelayanan perqara'))
 WebUI.click(findTestObject('Object Repository/Accept Konsultasi/tombol kirim'))
 
-
+WebUI.closeBrowser()

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cek Status</name>
+   <tag></tag>
+   <elementGuidId>ce8e81bd-9097-47a0-a613-53c223f88b56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = ' Cek Status ' or . = ' Cek Status ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2c7bcfd-b1da-4d6a-825a-50c9ea2c9a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>583f7117-3b31-4887-ac83-f7c605f56298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-2.5 py-1.5 text-sm ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg</value>
+      <webElementGuid>64382c91-6f30-4e1b-86ca-d0f59046a606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cek Status </value>
+      <webElementGuid>7e6839cd-0ea9-41de-b6d1-01f24a814f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;finish-payment&quot;)/button[@class=&quot;focus:outline-none focus:outline-0 focus-visible:outline-0 disabled:cursor-not-allowed disabled:bg-gray-200 disabled:text-gray-400 flex-shrink-0 transition-all ease-in-out duration-300 px-2.5 py-1.5 text-sm ring-1 ring-inset ring-current text-blue-2 hover:bg-blue-2/10 focus-visible:ring-2 focus-visible:ring-blue-2 rounded-lg&quot;]</value>
+      <webElementGuid>8178b504-c72f-44a4-b5cf-1abab5ab8a75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>af3a41fc-7874-427f-9f22-97c75569d2fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='finish-payment']/button</value>
+      <webElementGuid>fd22bed9-bb3a-45c0-b015-defcc7e08e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pembayaran Konsultasi Instan'])[1]/following::button[1]</value>
+      <webElementGuid>313612f8-9848-48a3-b812-2062000e7b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesaikan Pembayaran'])[1]/following::button[1]</value>
+      <webElementGuid>2e55e9a6-fdce-4e6f-8f81-0a72fc5d0c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button</value>
+      <webElementGuid>6a12dfc9-cfc5-44e8-95da-a03c801f1b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Cek Status ' or . = ' Cek Status ')]</value>
+      <webElementGuid>8f8dd7a5-c80a-4744-b058-e773a86f6237</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

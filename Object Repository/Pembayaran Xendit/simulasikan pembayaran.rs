@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>tombol Click here to simulate your payment with OVO</name>
+   <name>simulasikan pembayaran</name>
    <tag></tag>
-   <elementGuidId>c2397ab1-e310-4304-9401-acbbdf25ba17</elementGuidId>
+   <elementGuidId>478200a5-3667-4f91-ba7b-aae9d72ee4e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Click here to simulate your payment with OVO' or . = 'Click here to simulate your payment with OVO')]</value>
+         <value>//div[@id='simulation-bar-portal']/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>998303ee-06ae-4d8a-93d8-40daee1169d4</webElementGuid>
+      <webElementGuid>37b382c5-a52e-4360-b424-4fb355b1c063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9205243a-3fd9-4d5f-ac80-1ee46e41d8a2</webElementGuid>
+      <webElementGuid>fc7b138e-505e-4606-88f9-05cfc7a589b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-0 text-white font-semibold text-base underline focus:outline-none</value>
-      <webElementGuid>b8e603ae-54aa-46b5-ac3b-85a46b482efe</webElementGuid>
+      <webElementGuid>6fb70730-1fc9-4866-9983-480076899faf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>simulate-button</value>
-      <webElementGuid>925befcd-6640-4fd1-8838-aa7389437c1a</webElementGuid>
+      <webElementGuid>cb27853a-f1a6-4a06-8e31-eba24c02a55c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Click here to simulate your payment with OVO</value>
-      <webElementGuid>d7a90808-d8a8-4e80-8110-56aa15774794</webElementGuid>
+      <webElementGuid>df2fa21d-532b-47c4-be5a-eea67ae7cd90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;simulation-bar-portal&quot;)/div[@class=&quot;bg-xen-red-500 text-center py-1.5 px-4&quot;]/button[@class=&quot;p-0 text-white font-semibold text-base underline focus:outline-none&quot;]</value>
-      <webElementGuid>9290f121-e3c5-40b8-bd0f-86e610263637</webElementGuid>
+      <webElementGuid>5d945c67-b9d6-442f-9c1a-c67e49295419</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>34d8aba2-be11-427a-80bd-fd7609366289</webElementGuid>
+      <webElementGuid>8cfb68a5-e2be-453f-8400-1cdf4e6a8b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='simulation-bar-portal']/div/button</value>
-      <webElementGuid>91cd9966-e5ac-476b-bc9a-153682fcf011</webElementGuid>
+      <webElementGuid>ac750fc3-775e-4939-ac66-f4386779aa54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perqara'])[1]/preceding::button[1]</value>
-      <webElementGuid>97a31c76-a843-4215-b064-146382fdce53</webElementGuid>
+      <webElementGuid>1014055a-1c32-4c24-a6d4-07f402c5f889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::button[1]</value>
-      <webElementGuid>6839c1e4-137b-469c-9e34-87629d4dede1</webElementGuid>
+      <webElementGuid>344a219c-da15-4930-9eb6-e3d4eabc52a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Click here to simulate your payment with OVO']/parent::*</value>
-      <webElementGuid>701a3a40-5f77-49e7-9363-a27937511ad1</webElementGuid>
+      <webElementGuid>9342705c-da6f-422c-a67b-c4e1a89e4ff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>42c8c82e-306f-4447-ab15-36429e6ee1cf</webElementGuid>
+      <webElementGuid>7703c860-7e08-46c1-92e9-0f0da9ea9695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Click here to simulate your payment with OVO' or . = 'Click here to simulate your payment with OVO')]</value>
-      <webElementGuid>661c3164-c1e8-423c-a712-a29de2024a15</webElementGuid>
+      <webElementGuid>31776ef6-77ba-4f02-8b84-31b2d92e99b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
